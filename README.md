@@ -14,10 +14,9 @@ package — no persistent infrastructure.
 
 This code is a variation of a project originally built for a client to
 analyze their Salesforce Case data. The original ran against a live
-Salesforce org with real Service Cloud entitlements, real member contacts,
-and real PHI, all under that client's BAA and security review.
+Salesforce org.
 
-This public version preserves the architecture and prompt design verbatim
+This public version preserves the architecture and prompt design 
 but swaps the live Salesforce source for a synthetic-case generator so the
 repo runs end-to-end without a Salesforce org, an API user, or any real
 member data. The 150 mock cases in `synthetic_data/` are deterministic and
