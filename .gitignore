@@ -1,0 +1,60 @@
+# --- Secrets ---
+.env
+.env.*
+!.env.example
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual envs
+.venv/
+venv/
+env/
+ENV/
+
+# Build / packaging
+build/
+dist/
+*.egg-info/
+*.egg
+.eggs/
+pip-wheel-metadata/
+
+# Test / type-check caches
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+.coverage.*
+htmlcov/
+.tox/
+
+# --- Editors / IDEs ---
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# --- OS ---
+.DS_Store
+Thumbs.db
+
+# --- Project artifacts ---
+# Generated briefings & raw analysis dumps — keep the sample_outputs/
+# directory but ignore per-run files. Commit one example for portfolio use
+# with `git add -f sample_outputs/briefing_2026-05-10.html`.
+sample_outputs/*.html
+sample_outputs/raw_*.json
+!sample_outputs/briefing_2026-05-10.html
+
+# Eval results
+evals/results/*.json
+!evals/results/.gitkeep
+
+# Claude Code local settings
+.claude/settings.local.json

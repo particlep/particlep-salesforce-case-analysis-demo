@@ -1,0 +1,59 @@
+name: Daily support briefing
+
+on:
+  schedule:
+    # 07:00 America/New_York. GitHub Actions cron is UTC, so this is 11:00 UTC
+    # year-round. Adjust to 12:00 UTC in DST if exact 7am local matters.
+    - cron: "0 11 * * *"
+  workflow_dispatch:
+    inputs:
+      run_date:
+        description: "Override 'yesterday' (YYYY-MM-DD). Empty = real yesterday."
+        required: false
+      case_source:
+        description: "synthetic | salesforce"
+        required: false
+        default: salesforce
+      email_provider:
+        description: "sendgrid | console"
+        required: false
+        default: sendgrid
+
+jobs:
+  brief:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Run briefing
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          SF_USERNAME: ${{ secrets.SF_USERNAME }}
+          SF_PASSWORD: ${{ secrets.SF_PASSWORD }}
+          SF_SECURITY_TOKEN: ${{ secrets.SF_SECURITY_TOKEN }}
+          SF_DOMAIN: ${{ secrets.SF_DOMAIN }}
+          SF_INSTANCE_URL: ${{ secrets.SF_INSTANCE_URL }}
+          SENDGRID_API_KEY: ${{ secrets.SENDGRID_API_KEY }}
+          EMAIL_FROM: ${{ vars.EMAIL_FROM }}
+          EMAIL_TO: ${{ vars.EMAIL_TO }}
+          CASE_SOURCE: ${{ github.event.inputs.case_source || 'salesforce' }}
+          EMAIL_PROVIDER: ${{ github.event.inputs.email_provider || 'sendgrid' }}
+          RUN_DATE: ${{ github.event.inputs.run_date }}
+        run: python -m src.orchestrator
+
+      - name: Upload rendered HTML
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: briefing-html
+          path: sample_outputs/*.html
+          if-no-files-found: ignore
+          retention-days: 14

@@ -1,0 +1,27 @@
+{
+  "name": "baseline-2026-05-10",
+  "description": "Sanity check against the synthetic case set anchored to 2026-05-10. Cases referenced here come from src/sources/synthetic.py with the default seed (4242).",
+  "run_date": "2026-05-10",
+
+  "must_flag": [
+    "500Syn0001"
+  ],
+  "_must_flag_rationale": [
+    "500Syn0001 is the 'metformin XR severe GI upset' case — Adverse Event category, Critical priority. Should be picked up by clinical_flags as adverse_event."
+  ],
+
+  "must_not_flag": [
+    "500Syn0000"
+  ],
+  "_must_not_flag_rationale": [
+    "500Syn0000 is a routine portal-lockout case (priority Medium, no clinical content, no escalation signal). Should not appear in critical sections."
+  ],
+
+  "required_topic_keywords": [
+    "rx",
+    "prior auth"
+  ],
+  "_required_topic_keywords_rationale": [
+    "The synthetic data has multiple Rx-related and prior-auth categories generating many cases. At least one cluster label should mention each."
+  ]
+}

@@ -1,0 +1,117 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>{{ subject }}</title>
+</head>
+<body style="margin:0;padding:0;background:#f4f4f6;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;color:#1a1a1a;">
+  <table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="background:#f4f4f6;padding:24px 12px;">
+    <tr><td align="center">
+      <table role="presentation" width="640" cellpadding="0" cellspacing="0" style="max-width:640px;width:100%;background:#fff;border-radius:8px;overflow:hidden;border:1px solid #e1e1e6;">
+
+        <tr><td style="padding:24px 28px 8px 28px;border-bottom:1px solid #efeff3;">
+          <div style="font-size:13px;color:#6b6b75;letter-spacing:0.04em;text-transform:uppercase;">Daily Support Brief</div>
+          <div style="font-size:22px;font-weight:600;margin-top:4px;">{{ run_date_display }}</div>
+          {% if alert_chips %}
+            <div style="margin-top:10px;">
+              {% for chip in alert_chips %}
+                <span style="display:inline-block;background:{{ chip.bg }};color:{{ chip.fg }};font-size:12px;padding:3px 9px;border-radius:12px;margin-right:6px;font-weight:600;">{{ chip.text }}</span>
+              {% endfor %}
+            </div>
+          {% endif %}
+        </td></tr>
+
+        <tr><td style="padding:18px 28px 18px 28px;">
+          <div style="font-size:15px;line-height:1.55;color:#1a1a1a;">{{ narrative }}</div>
+        </td></tr>
+
+        {% if critical_items %}
+        <tr><td style="padding:8px 28px 4px 28px;">
+          <div style="font-size:14px;font-weight:700;color:#b32424;text-transform:uppercase;letter-spacing:0.04em;">Critical — review this morning</div>
+        </td></tr>
+        <tr><td style="padding:6px 28px 18px 28px;">
+          <table role="presentation" width="100%" cellpadding="0" cellspacing="0">
+            {% for item in critical_items %}
+            <tr><td style="padding:8px 0;border-top:1px solid #efeff3;font-size:14px;line-height:1.45;">
+              <div>
+                <span style="display:inline-block;background:{{ item.tag_bg }};color:{{ item.tag_fg }};font-size:11px;padding:2px 7px;border-radius:10px;font-weight:600;margin-right:8px;vertical-align:middle;">{{ item.tag }}</span>
+                <a href="{{ item.url }}" style="color:#0b59c4;text-decoration:none;font-weight:600;">{{ item.case_number }}</a>
+                <span style="color:#6b6b75;font-size:13px;">— {{ item.case_subject }}</span>
+              </div>
+              <div style="margin-top:4px;color:#3a3a45;">{{ item.summary }}</div>
+            </td></tr>
+            {% endfor %}
+          </table>
+        </td></tr>
+        {% endif %}
+
+        {% if topic_clusters %}
+        <tr><td style="padding:8px 28px 4px 28px;">
+          <div style="font-size:14px;font-weight:700;color:#1a1a1a;text-transform:uppercase;letter-spacing:0.04em;">What members were contacting about</div>
+        </td></tr>
+        <tr><td style="padding:6px 28px 18px 28px;">
+          <table role="presentation" width="100%" cellpadding="0" cellspacing="0">
+            {% for cluster in topic_clusters %}
+            <tr><td style="padding:8px 0;border-top:1px solid #efeff3;font-size:14px;line-height:1.45;">
+              <div>
+                <span style="font-weight:600;">{{ cluster.label }}</span>
+                <span style="color:#6b6b75;font-size:13px;">— {{ cluster.case_count }} case{{ 's' if cluster.case_count != 1 else '' }} ({{ '%.0f' % cluster.share_pct }}%)</span>
+                {% if cluster.notable %}<span style="display:inline-block;background:#fef3c7;color:#92400e;font-size:11px;padding:1px 7px;border-radius:10px;font-weight:600;margin-left:6px;">notable</span>{% endif %}
+              </div>
+              <div style="margin-top:4px;color:#3a3a45;">{{ cluster.description }}</div>
+            </td></tr>
+            {% endfor %}
+          </table>
+        </td></tr>
+        {% endif %}
+
+        {% if sla_buckets %}
+        <tr><td style="padding:8px 28px 4px 28px;">
+          <div style="font-size:14px;font-weight:700;color:#1a1a1a;text-transform:uppercase;letter-spacing:0.04em;">SLA &amp; ownership watch</div>
+        </td></tr>
+        <tr><td style="padding:6px 28px 18px 28px;">
+          <table role="presentation" width="100%" cellpadding="0" cellspacing="0">
+            {% for bucket in sla_buckets %}
+            <tr><td style="padding:8px 0;border-top:1px solid #efeff3;font-size:14px;">
+              <div style="font-weight:600;color:{{ bucket.color }};">{{ bucket.label }} <span style="color:#6b6b75;font-weight:400;">— {{ bucket.rows|length }}</span></div>
+              <table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="margin-top:4px;">
+                {% for item in bucket.rows %}
+                <tr><td style="padding:3px 0;font-size:13px;line-height:1.45;">
+                  <a href="{{ item.url }}" style="color:#0b59c4;text-decoration:none;font-weight:600;">{{ item.case_number }}</a>
+                  <span style="color:#3a3a45;">— {{ item.summary }}</span>
+                </td></tr>
+                {% endfor %}
+              </table>
+            </td></tr>
+            {% endfor %}
+          </table>
+        </td></tr>
+        {% endif %}
+
+        <tr><td style="padding:14px 28px 22px 28px;border-top:1px solid #efeff3;background:#fafafc;">
+          <table role="presentation" width="100%" cellpadding="0" cellspacing="0">
+            <tr>
+              <td style="font-size:13px;color:#6b6b75;line-height:1.5;">
+                <strong style="color:#1a1a1a;">{{ case_count }}</strong> cases yesterday ·
+                <strong style="color:#1a1a1a;">{{ open_count }}</strong> open ·
+                <strong style="color:#1a1a1a;">{{ closed_count }}</strong> closed
+                {% if escalated_count %} · <strong style="color:#b32424;">{{ escalated_count }}</strong> escalated{% endif %}
+              </td>
+              <td align="right" style="font-size:13px;">
+                {% if list_view_url %}<a href="{{ list_view_url }}" style="color:#0b59c4;text-decoration:none;font-weight:600;">View in Salesforce →</a>{% endif %}
+              </td>
+            </tr>
+          </table>
+        </td></tr>
+
+      </table>
+
+      <div style="font-size:11px;color:#9b9ba6;margin-top:14px;max-width:640px;text-align:left;line-height:1.4;">
+        Generated by the daily-briefing pipeline · run for {{ run_date_iso }} · {{ source_label }} data source
+        {% if dry_run %} · <strong>dry-run mode</strong>{% endif %}
+      </div>
+    </td></tr>
+  </table>
+</body>
+</html>

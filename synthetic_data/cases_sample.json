@@ -1,0 +1,5010 @@
+[
+  {
+    "id": "500Syn0000",
+    "case_number": "00100000",
+    "subject": "Cannot log into member portal",
+    "description": "Locked out after entering wrong password 3 times. Locked for 24 hours. I genuinely cannot remember the password and the reset link isn't working.",
+    "status": "New",
+    "priority": "Medium",
+    "origin": "Email",
+    "reason": "Portal Access",
+    "type": "Technical",
+    "created_at": "2026-05-10T17:41:00+00:00",
+    "closed_at": null,
+    "is_escalated": false,
+    "owner_name": "Riley Chen",
+    "owner_changes": 0,
+    "sla_target_at": "2026-05-11T01:41:00+00:00",
+    "sla_breached": false,
+    "contact_name": "Jamal Nguyen",
+    "account_name": "Underwood Family",
+    "account_type": "Medicare Advantage",
+    "comments": [
+      {
+        "author": "Taylor Brooks",
+        "body": "Reached out to member, left voicemail. Will follow up tomorrow.",
+        "at": "2026-05-11T01:06:00+00:00"
+      }
+    ],
+    "history": []
+  },
+  {
+    "id": "500Syn0001",
+    "case_number": "00100001",
+    "subject": "Patient experiencing dizziness with new prescription",
+    "description": "Member reports severe GI upset and vomiting within 48 hours of starting metformin XR 500mg. Pharmacist suggested member contact insurer about prior authorization for brand-name equivalent. Member is concerned and wants to know next steps before continuing dose tonight.",
+    "status": "Escalated",
+    "priority": "Critical",
+    "origin": "Chat",
+    "reason": "Adverse Event",
+    "type": "Pharmacy",
+    "created_at": "2026-05-10T07:37:00+00:00",
+    "closed_at": null,
+    "is_escalated": false,
+    "owner_name": "Skylar Vasquez",
+    "owner_changes": 0,
+    "sla_target_at": "2026-05-10T15:37:00+00:00",
+    "sla_breached": false,
+    "contact_name": "Uma Gupta",
+    "account_name": "Quinn & Associates Group Plan",
+    "account_type": "Medicare Advantage",
+    "comments": [
+      {
+        "author": "Morgan Walsh",
+        "body": "Escalated to clinical team for review. Member advised to contact prescriber and seek urgent care if symptoms worsen.",
+        "at": "2026-05-10T19:40:00+00:00"
+      }
+    ],
+    "history": []
+  },
+  {
+    "id": "500Syn0002",
+    "case_number": "00100002",
+    "subject": "Coverage for upcoming surgery",
+    "description": "Trying to figure out where I am on my deductible. Portal shows last update was March, I've had visits since then.",
+    "status": "New",
+    "priority": "High",
+    "origin": "Provider Portal",
+    "reason": "Benefit Inquiry",
+    "type": "General Inquiry",
+    "created_at": "2026-05-10T15:55:00+00:00",
+    "closed_at": null,
+    "is_escalated": false,
+    "owner_name": "Casey Liu",
+    "owner_changes": 0,
+    "sla_target_at": null,
+    "sla_breached": false,
+    "contact_name": "Sofia Edwards",
+    "account_name": "Liu Family",
+    "account_type": "Medicare Advantage",
+    "comments": [
+      {
+        "author": "Casey Liu",
+        "body": "Walked member through portal steps. Issue resolved.",
+        "at": "2026-05-11T02:30:00+00:00"
+      },
+      {
+        "author": "Member",
+        "body": "I tried what you suggested, it didn't work.",
+        "at": "2026-05-11T01:04:00+00:00"
+      },
+      {
+        "author": "Jordan Reyes",
+        "body": "Documented details, opened ticket with backend team for resolution.",
+        "at": "2026-05-11T00:36:00+00:00"
+      },
+      {
+        "author": "Member",
+        "body": "I tried what you suggested, it didn't work.",
+        "at": "2026-05-10T19:07:00+00:00"
+      }
+    ],
+    "history": []
+  },
+  {
+    "id": "500Syn0003",
+    "case_number": "00100003",
+    "subject": "Out-of-network coverage abroad",
+    "description": "Trying to figure out where I am on my deductible. Portal shows last update was March, I've had visits since then.",
+    "status": "Working",
+    "priority": "High",
+    "origin": "Web",
+    "reason": "Benefit Inquiry",
+    "type": "General Inquiry",
+    "created_at": "2026-05-10T06:59:00+00:00",
+    "closed_at": null,
+    "is_escalated": false,
+    "owner_name": "Devin Park",
+    "owner_changes": 0,
+    "sla_target_at": null,
+    "sla_breached": false,
+    "contact_name": "Sofia Johansson",
+    "account_name": "Martinez Family",
+    "account_type": "Medicaid",
+    "comments": [
+      {
+        "author": "Morgan Walsh",
+        "body": "Reached out to member, left voicemail. Will follow up tomorrow.",
+        "at": "2026-05-10T09:51:00+00:00"
+      },
+      {
+        "author": "Member",
+        "body": "Any update on this?",
+        "at": "2026-05-10T12:16:00+00:00"
+      }
+    ],
+    "history": []
+  },
+  {
+    "id": "500Syn0004",
+    "case_number": "00100004",
+    "subject": "Specialist directory shows providers not taking patients",
+    "description": "Looking for a pediatric dentist within 20 miles of 60611. Directory shows 8 options. 4 phone numbers disconnected, 3 not taking new patients, 1 doesn't take our plan despite being listed.",
+    "status": "Working",
+    "priority": "Medium",
+    "origin": "Phone",
+    "reason": "Provider Search",
+    "type": "General Inquiry",
+    "created_at": "2026-05-10T14:04:00+00:00",
+    "closed_at": null,
+    "is_escalated": false,
+    "owner_name": "Jordan Reyes",
+    "owner_changes": 0,
+    "sla_target_at": null,
+    "sla_breached": false,
+    "contact_name": "Sofia Johansson",
+    "account_name": "Watson Family",
+    "account_type": "Group Plan",
+    "comments": [
+      {
+        "author": "Morgan Walsh",
+        "body": "Confirmed information with member and updated record. Awaiting response from provider.",
+        "at": "2026-05-11T00:52:00+00:00"
+      }
+    ],
+    "history": []
+  },
+  {
+    "id": "500Syn0005",
+    "case_number": "00100005",
+    "subject": "NICU coverage if early delivery",
+    "description": "Doctor recommended NIPT (non-invasive prenatal testing). Insurance representative said it's covered if 'medically indicated' - I'm 36 weeks and 38 years old. Should be covered, right?",
+    "status": "Resolved",
+    "priority": "Medium",
+    "origin": "Email",
+    "reason": "Maternity",
+    "type": "Clinical",
+    "created_at": "2026-05-10T12:32:00+00:00",
+    "closed_at": "2026-05-10T19:22:00+00:00",
+    "is_escalated": true,
+    "owner_name": "Avery Patel",
+    "owner_changes": 0,
+    "sla_target_at": "2026-05-10T20:32:00+00:00",
+    "sla_breached": false,
+    "contact_name": "Finn Kim",
+    "account_name": "Ibrahim Family",
+    "account_type": "Medicaid",
+    "comments": [],
+    "history": []
+  },
+  {
+    "id": "500Syn0006",
+    "case_number": "00100006",
+    "subject": "Eligible expenses for HSA",
+    "description": "HSA card declined at dentist for a crown. Have funds in the account. Tried twice. Embarrassed and need to know why.",
+    "status": "New",
+    "priority": "Low",
+    "origin": "Chat",
+    "reason": "FSA HSA",
+    "type": "Benefits",
+    "created_at": "2026-05-10T05:41:00+00:00",
+    "closed_at": null,
+    "is_escalated": false,
+    "owner_name": "Casey Liu",
+    "owner_changes": 0,
+    "sla_target_at": null,
+    "sla_breached": false,
+    "contact_name": "Kim Xu",
+    "account_name": "Edwards Family",
+    "account_type": "Medicare Advantage",
+    "comments": [],
+    "history": []
+  },
+  {
+    "id": "500Syn0007",
+    "case_number": "00100007",
+    "subject": "What's my deductible status",
+    "description": "Hearing aids - are they covered? I've heard yes and no from different reps. Definitive answer please.",
+    "status": "Working",
+    "priority": "Medium",
+    "origin": "Provider Portal",
+    "reason": "Benefit Inquiry",
+    "type": "General Inquiry",
+    "created_at": "2026-05-10T02:04:00+00:00",
+    "closed_at": null,
+    "is_escalated": false,
+    "owner_name": "Taylor Brooks",
+    "owner_changes": 0,
+    "sla_target_at": "2026-05-11T02:04:00+00:00",
+    "sla_breached": false,
+    "contact_name": "Leon Okonkwo",
+    "account_name": "Rodriguez Family",
+    "account_type": "Medicaid",
+    "comments": [
+      {
+        "author": "Casey Liu",
+        "body": "Walked member through portal steps. Issue resolved.",
+        "at": "2026-05-10T10:32:00+00:00"
+      }
+    ],
+    "history": []
+  },
+  {
+    "id": "500Syn0008",
+    "case_number": "00100008",
+    "subject": "Coverage for high-risk pregnancy specialist",
+    "description": "I'm 30 weeks. If baby comes early and needs NICU, what does my plan cover. Trying to plan financially.",
+    "status": "Waiting on Customer",
+    "priority": "Medium",
+    "origin": "Web",
+    "reason": "Maternity",
+    "type": "Clinical",
+    "created_at": "2026-05-10T00:46:00+00:00",
+    "closed_at": null,
+    "is_escalated": false,
+    "owner_name": "Casey Liu",
+    "owner_changes": 0,
+    "sla_target_at": "2026-05-11T00:46:00+00:00",
+    "sla_breached": false,
+    "contact_name": "Devon Hassan",
+    "account_name": "Nguyen & Associates Group Plan",
+    "account_type": "Group Plan",
+    "comments": [
+      {
+        "author": "Casey Liu",
+        "body": "Reached out to member, left voicemail. Will follow up tomorrow.",
+        "at": "2026-05-10T09:24:00+00:00"
+      },
+      {
+        "author": "Member",
+        "body": "Still waiting. This is unacceptable.",
+        "at": "2026-05-10T13:37:00+00:00"
+      }
+    ],
+    "history": []
+  },
+  {
+    "id": "500Syn0009",
+    "case_number": "00100009",
+    "subject": "Refill not processing at CVS",
+    "description": "My mail-order prescription was supposed to arrive last Tuesday. Tracking says it's still in the warehouse. I'm out of pills.",
+    "status": "New",
+    "priority": "Medium",
+    "origin": "Email",
+    "reason": "Prescription",
+    "type": "Pharmacy",
+    "created_at": "2026-05-10T21:35:00+00:00",
+    "closed_at": null,
+    "is_escalated": true,
+    "owner_name": "Riley Chen",
+    "owner_changes": 0,
+    "sla_target_at": "2026-05-11T05:35:00+00:00",
+    "sla_breached": false,
+    "contact_name": "Sofia Xu",
+    "account_name": "Nguyen Family",
+    "account_type": "Medicare Advantage",
+    "comments": [
+      {
+        "author": "Avery Patel",
+        "body": "Reached out to member, left voicemail. Will follow up tomorrow.",
+        "at": "2026-05-11T08:32:00+00:00"
+      }
+    ],
+    "history": [
+      {
+        "field": "IsEscalated",
+        "from": "false",
+        "to": "true",
+        "by": "Jordan Reyes",
+        "at": "2026-05-11T03:35:00+00:00"
+      }
+    ]
+  },
+  {
+    "id": "500Syn0010",
+    "case_number": "00100010",
+    "subject": "Possible reaction to new BP med",
+    "description": "Sister called - mom was prescribed a new antidepressant last week and has been having racing heart and tremor. Called the prescriber, no answer. What should she do?",
+    "status": "New",
+    "priority": "High",
+    "origin": "Web",
+    "reason": "Adverse Event",
+    "type": "Pharmacy",
+    "created_at": "2026-05-10T07:27:00+00:00",
+    "closed_at": null,
+    "is_escalated": true,
+    "owner_name": "Jordan Reyes",
+    "owner_changes": 1,
+    "sla_target_at": null,
+    "sla_breached": false,
+    "contact_name": "Elena Edwards",
+    "account_name": "Bell Family",
+    "account_type": "Individual Plan",
+    "comments": [
+      {
+        "author": "Quincy Adams",
+        "body": "Confirmed information with member and updated record. Awaiting response from provider.",
+        "at": "2026-05-10T17:11:00+00:00"
+      },
+      {
+        "author": "Member",
+        "body": "Spoke with my doctor's office, they have not heard back from you.",
+        "at": "2026-05-10T13:34:00+00:00"
+      }
+    ],
+    "history": [
+      {
+        "field": "IsEscalated",
+        "from": "false",
+        "to": "true",
+        "by": "Skylar Vasquez",
+        "at": "2026-05-10T14:27:00+00:00"
+      },
+      {
+        "field": "Owner",
+        "from": "Quincy Adams",
+        "to": "Jordan Reyes",
+        "by": "System",
+        "at": "2026-05-10T17:11:00+00:00"
+      }
+    ]
+  },
+  {
+    "id": "500Syn0011",
+    "case_number": "00100011",
+    "subject": "NICU coverage if early delivery",
+    "description": "Doctor recommended NIPT (non-invasive prenatal testing). Insurance representative said it's covered if 'medically indicated' - I'm 36 weeks and 38 years old. Should be covered, right?",
+    "status": "Escalated",
+    "priority": "High",
+    "origin": "Chat",
+    "reason": "Maternity",
+    "type": "Clinical",
+    "created_at": "2026-05-10T09:15:00+00:00",
+    "closed_at": null,
+    "is_escalated": false,
+    "owner_name": "Morgan Walsh",
+    "owner_changes": 1,
+    "sla_target_at": null,
+    "sla_breached": false,
+    "contact_name": "Carla Patel",
+    "account_name": "Martinez Family",
+    "account_type": "Medicare Advantage",
+    "comments": [],
+    "history": [
+      {
+        "field": "Owner",
+        "from": "Taylor Brooks",
+        "to": "Morgan Walsh",
+        "by": "System",
+        "at": "2026-05-10T12:13:00+00:00"
+      }
+    ]
+  },
+  {
+    "id": "500Syn0012",
+    "case_number": "00100012",
+    "subject": "Removing ex-spouse from plan",
+    "description": "Divorce finalized. Need ex-spouse removed from policy and her name off all the records. Effective date should be April 15.",
+    "status": "Resolved",
+    "priority": "Medium",
+    "origin": "Provider Portal",
+    "reason": "Enrollment Change",
+    "type": "Enrollment",
+    "created_at": "2026-05-10T05:21:00+00:00",
+    "closed_at": "2026-05-10T14:49:00+00:00",
+    "is_escalated": true,
+    "owner_name": "Morgan Walsh",
+    "owner_changes": 0,
+    "sla_target_at": "2026-05-12T05:21:00+00:00",
+    "sla_breached": false,
+    "contact_name": "Felix Johansson",
+    "account_name": "Hassan Family",
+    "account_type": "Individual Plan",
+    "comments": [
+      {
+        "author": "Casey Liu",
+        "body": "Walked member through portal steps. Issue resolved.",
+        "at": "2026-05-10T12:25:00+00:00"
+      }
+    ],
+    "history": []
+  },
+  {
+    "id": "500Syn0013",
+    "case_number": "00100013",
+    "subject": "Password reset email not arriving",
+    "description": "Locked out after entering wrong password 3 times. Locked for 24 hours. I genuinely cannot remember the password and the reset link isn't working.",
+    "status": "Working",
+    "priority": "Low",
+    "origin": "Web",
+    "reason": "Portal Access",
+    "type": "Technical",
+    "created_at": "2026-05-10T05:18:00+00:00",
+    "closed_at": null,
+    "is_escalated": false,
+    "owner_name": "Taylor Brooks",
+    "owner_changes": 0,
+    "sla_target_at": null,
+    "sla_breached": false,
+    "contact_name": "Elena Xu",
+    "account_name": "Anderson Family",
+    "account_type": "Medicare Advantage",
+    "comments": [
+      {
+        "author": "Morgan Walsh",
+        "body": "Walked member through portal steps. Issue resolved.",
+        "at": "2026-05-10T12:02:00+00:00"
+      },
+      {
+        "author": "Member",
+        "body": "I tried what you suggested, it didn't work.",
+        "at": "2026-05-10T09:50:00+00:00"
+      }
+    ],
+    "history": []
+  },
+  {
+    "id": "500Syn0014",
+    "case_number": "00100014",
+    "subject": "Coordination of benefits update needed",
+    "description": "Husband is veteran, has VA coverage. I have your plan. When he visits non-VA doctors, who pays.",
+    "status": "Closed",
+    "priority": "Low",
+    "origin": "Chat",
+    "reason": "COB",
+    "type": "Claims",
+    "created_at": "2026-05-10T17:57:00+00:00",
+    "closed_at": "2026-05-11T04:17:00+00:00",
+    "is_escalated": false,
+    "owner_name": "Jordan Reyes",
+    "owner_changes": 0,
+    "sla_target_at": "2026-05-11T17:57:00+00:00",
+    "sla_breached": false,
+    "contact_name": "Hank Rodriguez",
+    "account_name": "Anderson Family",
+    "account_type": "Medicare Advantage",
+    "comments": [
+      {
+        "author": "Quincy Adams",
+        "body": "Documented details, opened ticket with backend team for resolution.",
+        "at": "2026-05-11T04:05:00+00:00"
+      }
+    ],
+    "history": []
+  },
+  {
+    "id": "500Syn0015",
+    "case_number": "00100015",
+    "subject": "Special enrollment - move to different state",
+    "description": "Was terminated April 28. COBRA paperwork hasn't arrived. I'm running out of meds, need to know coverage status.",
+    "status": "Resolved",
+    "priority": "High",
+    "origin": "Email",
+    "reason": "Enrollment Change",
+    "type": "Enrollment",
+    "created_at": "2026-05-10T21:33:00+00:00",
+    "closed_at": "2026-05-11T00:18:00+00:00",
+    "is_escalated": true,
+    "owner_name": "Sam Okafor",
+    "owner_changes": 0,
+    "sla_target_at": "2026-05-11T21:33:00+00:00",
+    "sla_breached": false,
+    "contact_name": "Leon Watson",
+    "account_name": "Bell Family",
+    "account_type": "Medicaid",
+    "comments": [
+      {
+        "author": "Casey Liu",
+        "body": "Reached out to member, left voicemail. Will follow up tomorrow.",
+        "at": "2026-05-11T01:35:00+00:00"
+      },
+      {
+        "author": "Member",
+        "body": "Still waiting. This is unacceptable.",
+        "at": "2026-05-10T22:45:00+00:00"
+      },
+      {
+        "author": "Casey Liu",
+        "body": "Documented details, opened ticket with backend team for resolution.",
+        "at": "2026-05-11T10:05:00+00:00"
+      }
+    ],
+    "history": []
+  },
+  {
+    "id": "500Syn0016",
+    "case_number": "00100016",
+    "subject": "Coverage for second opinion on biopsy",
+    "description": "Started feeling fatigued, joint pain, low-grade fever for the last 10 days. PCP wants to refer me to rheumatology. Is that covered without a referral or do I need one?",
+    "status": "Waiting on Customer",
+    "priority": "High",
+    "origin": "Phone",
+    "reason": "Medical Question",
+    "type": "Clinical",
+    "created_at": "2026-05-10T04:07:00+00:00",
+    "closed_at": null,
+    "is_escalated": false,
+    "owner_name": "Jordan Reyes",
+    "owner_changes": 0,
+    "sla_target_at": "2026-05-12T04:07:00+00:00",
+    "sla_breached": false,
+    "contact_name": "Opal Xu",
+    "account_name": "Quinn Family",
+    "account_type": "Medicare Advantage",
+    "comments": [
+      {
+        "author": "Skylar Vasquez",
+        "body": "Documented details, opened ticket with backend team for resolution.",
+        "at": "2026-05-10T08:44:00+00:00"
+      },
+      {
+        "author": "Member",
+        "body": "Still waiting. This is unacceptable.",
+        "at": "2026-05-10T09:06:00+00:00"
+      }
+    ],
+    "history": []
+  },
+  {
+    "id": "500Syn0017",
+    "case_number": "00100017",
+    "subject": "Specialist referral - is auth needed?",
+    "description": "Got a referral to see a rheumatologist - does this need a PA or is it just an in-network specialist visit? Conflicting info on the website.",
+    "status": "Closed",
+    "priority": "High",
+    "origin": "Provider Portal",
+    "reason": "Prior Auth",
+    "type": "Authorization",
+    "created_at": "2026-05-10T06:32:00+00:00",
+    "closed_at": "2026-05-10T12:18:00+00:00",
+    "is_escalated": true,
+    "owner_name": "Morgan Walsh",
+    "owner_changes": 0,
+    "sla_target_at": null,
+    "sla_breached": false,
+    "contact_name": "Omar Nguyen",
+    "account_name": "Watson & Associates Group Plan",
+    "account_type": "Family Plan",
+    "comments": [],
+    "history": []
+  },
+  {
+    "id": "500Syn0018",
+    "case_number": "00100018",
+    "subject": "Hives after starting new medication",
+    "description": "Patient reports onset of facial swelling and difficulty swallowing approximately 2 hours after taking first dose of new ACE inhibitor. Patient called pharmacy, pharmacist directed her to ER. She is requesting documentation of the reaction for her chart.",
+    "status": "Working",
+    "priority": "High",
+    "origin": "Web",
+    "reason": "Adverse Event",
+    "type": "Pharmacy",
+    "created_at": "2026-05-10T22:31:00+00:00",
+    "closed_at": null,
+    "is_escalated": true,
+    "owner_name": "Skylar Vasquez",
+    "owner_changes": 1,
+    "sla_target_at": null,
+    "sla_breached": false,
+    "contact_name": "Elena Kim",
+    "account_name": "Singh Family",
+    "account_type": "Family Plan",
+    "comments": [
+      {
+        "author": "Devin Park",
+        "body": "Walked member through portal steps. Issue resolved.",
+        "at": "2026-05-11T10:53:00+00:00"
+      },
+      {
+        "author": "Member",
+        "body": "I tried what you suggested, it didn't work.",
+        "at": "2026-05-11T03:46:00+00:00"
+      },
+      {
+        "author": "Riley Chen",
+        "body": "Documented details, opened ticket with backend team for resolution.",
+        "at": "2026-05-11T01:11:00+00:00"
+      }
+    ],
+    "history": [
+      {
+        "field": "IsEscalated",
+        "from": "false",
+        "to": "true",
+        "by": "Skylar Vasquez",
+        "at": "2026-05-11T03:31:00+00:00"
+      },
+      {
+        "field": "Owner",
+        "from": "Riley Chen",
+        "to": "Skylar Vasquez",
+        "by": "System",
+        "at": "2026-05-11T11:28:00+00:00"
+      }
+    ]
+  },
+  {
+    "id": "500Syn0019",
+    "case_number": "00100019",
+    "subject": "Refill not processing at CVS",
+    "description": "Trying to refill my statin, system says 'PA required' but my doctor already submitted that paperwork in February. What is going on.",
+    "status": "Closed",
+    "priority": "High",
+    "origin": "Chat",
+    "reason": "Prescription",
+    "type": "Pharmacy",
+    "created_at": "2026-05-10T02:42:00+00:00",
+    "closed_at": "2026-05-10T11:22:00+00:00",
+    "is_escalated": false,
+    "owner_name": "Morgan Walsh",
+    "owner_changes": 0,
+    "sla_target_at": "2026-05-11T02:42:00+00:00",
+    "sla_breached": false,
+    "contact_name": "Zoe Hassan",
+    "account_name": "Singh Family",
+    "account_type": "Medicare Advantage",
+    "comments": [
+      {
+        "author": "Skylar Vasquez",
+        "body": "Reached out to member, left voicemail. Will follow up tomorrow.",
+        "at": "2026-05-10T08:10:00+00:00"
+      }
+    ],
+    "history": []
+  },
+  {
+    "id": "500Syn0020",
+    "case_number": "00100020",
+    "subject": "Pharmacy says no refills remaining but I should have 2",
+    "description": "I went to pick up my blood pressure medication today and the pharmacy said the insurance won't cover it. I've been on this for two years. Please fix this ASAP, I only have 3 days left.",
+    "status": "Waiting on Customer",
+    "priority": "High",
+    "origin": "Email",
+    "reason": "Prescription",
+    "type": "Pharmacy",
+    "created_at": "2026-05-10T17:03:00+00:00",
+    "closed_at": null,
+    "is_escalated": false,
+    "owner_name": "Morgan Walsh",
+    "owner_changes": 3,
+    "sla_target_at": "2026-05-10T21:03:00+00:00",
+    "sla_breached": false,
+    "contact_name": "Greta Bell",
+    "account_name": "Liu Family",
+    "account_type": "Family Plan",
+    "comments": [
+      {
+        "author": "Skylar Vasquez",
+        "body": "Pending response from internal team, ETA 24-48 hours.",
+        "at": "2026-05-11T04:39:00+00:00"
+      }
+    ],
+    "history": [
+      {
+        "field": "Owner",
+        "from": "Avery Patel",
+        "to": "Morgan Walsh",
+        "by": "System",
+        "at": "2026-05-10T19:20:00+00:00"
+      },
+      {
+        "field": "Owner",
+        "from": "Morgan Walsh",
+        "to": "Casey Liu",
+        "by": "System",
+        "at": "2026-05-10T19:30:00+00:00"
+      },
+      {
+        "field": "Owner",
+        "from": "Casey Liu",
+        "to": "Avery Patel",
+        "by": "System",
+        "at": "2026-05-10T20:11:00+00:00"
+      }
+    ]
+  },
+  {
+    "id": "500Syn0021",
+    "case_number": "00100021",
+    "subject": "Coverage for upcoming surgery",
+    "description": "I have hip replacement surgery scheduled for June 8. Hospital wants to verify my coverage and benefits. Surgery is at Northwestern, surgeon is Dr. Reyes in-network. Need to know deductible status and what to expect out of pocket.",
+    "status": "Resolved",
+    "priority": "Low",
+    "origin": "Web",
+    "reason": "Benefit Inquiry",
+    "type": "General Inquiry",
+    "created_at": "2026-05-10T08:50:00+00:00",
+    "closed_at": "2026-05-10T10:21:00+00:00",
+    "is_escalated": false,
+    "owner_name": "Quincy Adams",
+    "owner_changes": 0,
+    "sla_target_at": null,
+    "sla_breached": false,
+    "contact_name": "Zoe Zhao",
+    "account_name": "Diaz Family",
+    "account_type": "Medicaid",
+    "comments": [],
+    "history": []
+  },
+  {
+    "id": "500Syn0022",
+    "case_number": "00100022",
+    "subject": "Duplicate premium charge this month",
+    "description": "Canceled coverage effective March 1 (job change). Premium for April still charged. Need refund.",
+    "status": "Closed",
+    "priority": "High",
+    "origin": "Web",
+    "reason": "Premium Payment",
+    "type": "Billing",
+    "created_at": "2026-05-10T15:08:00+00:00",
+    "closed_at": "2026-05-10T22:42:00+00:00",
+    "is_escalated": false,
+    "owner_name": "Jordan Reyes",
+    "owner_changes": 2,
+    "sla_target_at": null,
+    "sla_breached": false,
+    "contact_name": "Kara Underwood",
+    "account_name": "Rodriguez & Associates Group Plan",
+    "account_type": "Group Plan",
+    "comments": [
+      {
+        "author": "Avery Patel",
+        "body": "Walked member through portal steps. Issue resolved.",
+        "at": "2026-05-10T18:58:00+00:00"
+      },
+      {
+        "author": "Member",
+        "body": "Spoke with my doctor's office, they have not heard back from you.",
+        "at": "2026-05-10T20:41:00+00:00"
+      }
+    ],
+    "history": [
+      {
+        "field": "Owner",
+        "from": "Casey Liu",
+        "to": "Jordan Reyes",
+        "by": "System",
+        "at": "2026-05-10T21:16:00+00:00"
+      },
+      {
+        "field": "Owner",
+        "from": "Riley Chen",
+        "to": "Casey Liu",
+        "by": "System",
+        "at": "2026-05-10T23:34:00+00:00"
+      }
+    ]
+  },
+  {
+    "id": "500Syn0023",
+    "case_number": "00100023",
+    "subject": "Patient experiencing dizziness with new prescription",
+    "description": "Patient reports onset of facial swelling and difficulty swallowing approximately 2 hours after taking first dose of new ACE inhibitor. Patient called pharmacy, pharmacist directed her to ER. She is requesting documentation of the reaction for her chart.",
+    "status": "New",
+    "priority": "Critical",
+    "origin": "Email",
+    "reason": "Adverse Event",
+    "type": "Pharmacy",
+    "created_at": "2026-05-10T04:38:00+00:00",
+    "closed_at": null,
+    "is_escalated": true,
+    "owner_name": "Casey Liu",
+    "owner_changes": 0,
+    "sla_target_at": "2026-05-10T08:38:00+00:00",
+    "sla_breached": false,
+    "contact_name": "Willa Gupta",
+    "account_name": "Rodriguez Family",
+    "account_type": "Medicaid",
+    "comments": [
+      {
+        "author": "Devin Park",
+        "body": "Documented details, opened ticket with backend team for resolution.",
+        "at": "2026-05-10T10:41:00+00:00"
+      }
+    ],
+    "history": [
+      {
+        "field": "IsEscalated",
+        "from": "false",
+        "to": "true",
+        "by": "Avery Patel",
+        "at": "2026-05-10T05:38:00+00:00"
+      }
+    ]
+  },
+  {
+    "id": "500Syn0024",
+    "case_number": "00100024",
+    "subject": "Surgery claim denied after prior auth approved",
+    "description": "Spouse's outpatient surgery from January denied 'lack of documentation' even though we sent everything twice. Talking about filing a formal complaint.",
+    "status": "Working",
+    "priority": "Critical",
+    "origin": "Phone",
+    "reason": "Denied Claim",
+    "type": "Claims",
+    "created_at": "2026-05-10T10:41:00+00:00",
+    "closed_at": null,
+    "is_escalated": true,
+    "owner_name": "Devin Park",
+    "owner_changes": 0,
+    "sla_target_at": null,
+    "sla_breached": false,
+    "contact_name": "Jamal Ibrahim",
+    "account_name": "Kim Family",
+    "account_type": "Medicare Advantage",
+    "comments": [
+      {
+        "author": "Jordan Reyes",
+        "body": "Reached out to member, left voicemail. Will follow up tomorrow.",
+        "at": "2026-05-10T23:32:00+00:00"
+      },
+      {
+        "author": "Member",
+        "body": "I tried what you suggested, it didn't work.",
+        "at": "2026-05-10T16:15:00+00:00"
+      }
+    ],
+    "history": [
+      {
+        "field": "IsEscalated",
+        "from": "false",
+        "to": "true",
+        "by": "Jordan Reyes",
+        "at": "2026-05-10T17:41:00+00:00"
+      }
+    ]
+  },
+  {
+    "id": "500Syn0025",
+    "case_number": "00100025",
+    "subject": "Doctor never joined the call",
+    "description": "Had a telehealth appointment scheduled for 10am. Joined the link, waiting room for 45 minutes. Provider never showed. Now I'm being told I'll be charged a no-show fee. This is ridiculous.",
+    "status": "Waiting on Customer",
+    "priority": "Medium",
+    "origin": "Phone",
+    "reason": "Telehealth",
+    "type": "Technical",
+    "created_at": "2026-05-10T14:52:00+00:00",
+    "closed_at": null,
+    "is_escalated": false,
+    "owner_name": "Avery Patel",
+    "owner_changes": 0,
+    "sla_target_at": "2026-05-12T14:52:00+00:00",
+    "sla_breached": false,
+    "contact_name": "Hank Martinez",
+    "account_name": "Liu Family",
+    "account_type": "Medicare Advantage",
+    "comments": [
+      {
+        "author": "Avery Patel",
+        "body": "Documented details, opened ticket with backend team for resolution.",
+        "at": "2026-05-11T00:10:00+00:00"
+      },
+      {
+        "author": "Member",
+        "body": "Any update on this?",
+        "at": "2026-05-10T19:59:00+00:00"
+      },
+      {
+        "author": "Taylor Brooks",
+        "body": "Pending response from internal team, ETA 24-48 hours.",
+        "at": "2026-05-10T16:01:00+00:00"
+      }
+    ],
+    "history": []
+  },
+  {
+    "id": "500Syn0026",
+    "case_number": "00100026",
+    "subject": "HSA debit card declined at dentist",
+    "description": "Quick question - are over the counter allergy meds HSA eligible without a Rx in 2026?",
+    "status": "Escalated",
+    "priority": "Low",
+    "origin": "Provider Portal",
+    "reason": "FSA HSA",
+    "type": "Benefits",
+    "created_at": "2026-05-10T11:49:00+00:00",
+    "closed_at": null,
+    "is_escalated": false,
+    "owner_name": "Devin Park",
+    "owner_changes": 0,
+    "sla_target_at": null,
+    "sla_breached": false,
+    "contact_name": "Vincent Kim",
+    "account_name": "Okonkwo Family",
+    "account_type": "Individual Plan",
+    "comments": [
+      {
+        "author": "Sam Okafor",
+        "body": "Pending response from internal team, ETA 24-48 hours.",
+        "at": "2026-05-10T15:02:00+00:00"
+      }
+    ],
+    "history": []
+  },
+  {
+    "id": "500Syn0027",
+    "case_number": "00100027",
+    "subject": "Telehealth video keeps freezing",
+    "description": "Had a telehealth appointment scheduled for 10am. Joined the link, waiting room for 45 minutes. Provider never showed. Now I'm being told I'll be charged a no-show fee. This is ridiculous.",
+    "status": "Closed",
+    "priority": "Medium",
+    "origin": "Provider Portal",
+    "reason": "Telehealth",
+    "type": "Technical",
+    "created_at": "2026-05-10T10:20:00+00:00",
+    "closed_at": "2026-05-10T16:38:00+00:00",
+    "is_escalated": false,
+    "owner_name": "Casey Liu",
+    "owner_changes": 0,
+    "sla_target_at": null,
+    "sla_breached": false,
+    "contact_name": "Dante Anderson",
+    "account_name": "Bell & Associates Group Plan",
+    "account_type": "Group Plan",
+    "comments": [
+      {
+        "author": "Quincy Adams",
+        "body": "Confirmed information with member and updated record. Awaiting response from provider.",
+        "at": "2026-05-10T13:23:00+00:00"
+      },
+      {
+        "author": "Member",
+        "body": "Still waiting. This is unacceptable.",
+        "at": "2026-05-10T21:07:00+00:00"
+      },
+      {
+        "author": "Quincy Adams",
+        "body": "Reached out to member, left voicemail. Will follow up tomorrow.",
+        "at": "2026-05-10T12:39:00+00:00"
+      },
+      {
+        "author": "Member",
+        "body": "Still waiting. This is unacceptable.",
+        "at": "2026-05-10T15:03:00+00:00"
+      }
+    ],
+    "history": []
+  },
+  {
+    "id": "500Syn0028",
+    "case_number": "00100028",
+    "subject": "Annual exam completed, no reward credited",
+    "description": "Connected my Fitbit to the steps challenge last Monday. Steps from before that aren't counted. Can you backdate? I had 280k steps before connecting.",
+    "status": "Closed",
+    "priority": "Low",
+    "origin": "Provider Portal",
+    "reason": "Wellness Program",
+    "type": "General Inquiry",
+    "created_at": "2026-05-10T10:50:00+00:00",
+    "closed_at": "2026-05-10T20:33:00+00:00",
+    "is_escalated": false,
+    "owner_name": "Quincy Adams",
+    "owner_changes": 0,
+    "sla_target_at": null,
+    "sla_breached": false,
+    "contact_name": "Grace Hassan",
+    "account_name": "Diaz & Associates Group Plan",
+    "account_type": "Group Plan",
+    "comments": [],
+    "history": []
+  },
+  {
+    "id": "500Syn0029",
+    "case_number": "00100029",
+    "subject": "Appeal denied - next steps",
+    "description": "Need the form for filing an external review of a coverage denial. Couldn't find it on the website.",
+    "status": "Resolved",
+    "priority": "High",
+    "origin": "Phone",
+    "reason": "Formal Appeal",
+    "type": "Appeals",
+    "created_at": "2026-05-10T03:52:00+00:00",
+    "closed_at": "2026-05-10T06:43:00+00:00",
+    "is_escalated": false,
+    "owner_name": "Casey Liu",
+    "owner_changes": 3,
+    "sla_target_at": "2026-05-11T03:52:00+00:00",
+    "sla_breached": false,
+    "contact_name": "Greta Fischer",
+    "account_name": "Johansson Family",
+    "account_type": "Medicaid",
+    "comments": [],
+    "history": [
+      {
+        "field": "Owner",
+        "from": "Morgan Walsh",
+        "to": "Quincy Adams",
+        "by": "System",
+        "at": "2026-05-10T04:55:00+00:00"
+      },
+      {
+        "field": "Owner",
+        "from": "Quincy Adams",
+        "to": "Casey Liu",
+        "by": "System",
+        "at": "2026-05-10T07:36:00+00:00"
+      },
+      {
+        "field": "Owner",
+        "from": "Sam Okafor",
+        "to": "Morgan Walsh",
+        "by": "System",
+        "at": "2026-05-10T08:35:00+00:00"
+      }
+    ]
+  },
+  {
+    "id": "500Syn0030",
+    "case_number": "00100030",
+    "subject": "Crisis line referral question",
+    "description": "I called the 24/7 nurse line last night about my anxiety, they were helpful but I need a real therapist not a chat bot. What's covered.",
+    "status": "Escalated",
+    "priority": "High",
+    "origin": "Phone",
+    "reason": "Behavioral Health",
+    "type": "Clinical",
+    "created_at": "2026-05-10T12:05:00+00:00",
+    "closed_at": null,
+    "is_escalated": false,
+    "owner_name": "Morgan Walsh",
+    "owner_changes": 2,
+    "sla_target_at": "2026-05-11T12:05:00+00:00",
+    "sla_breached": false,
+    "contact_name": "Jonas Diaz",
+    "account_name": "Quinn Family",
+    "account_type": "Family Plan",
+    "comments": [
+      {
+        "author": "Casey Liu",
+        "body": "Documented details, opened ticket with backend team for resolution.",
+        "at": "2026-05-10T20:24:00+00:00"
+      },
+      {
+        "author": "Member",
+        "body": "Any update on this?",
+        "at": "2026-05-10T19:51:00+00:00"
+      },
+      {
+        "author": "Quincy Adams",
+        "body": "Walked member through portal steps. Issue resolved.",
+        "at": "2026-05-10T19:30:00+00:00"
+      }
+    ],
+    "history": [
+      {
+        "field": "Owner",
+        "from": "Taylor Brooks",
+        "to": "Morgan Walsh",
+        "by": "System",
+        "at": "2026-05-10T16:27:00+00:00"
+      },
+      {
+        "field": "Owner",
+        "from": "Skylar Vasquez",
+        "to": "Taylor Brooks",
+        "by": "System",
+        "at": "2026-05-10T20:51:00+00:00"
+      }
+    ]
+  },
+  {
+    "id": "500Syn0031",
+    "case_number": "00100031",
+    "subject": "Need refill on lisinopril",
+    "description": "My mail-order prescription was supposed to arrive last Tuesday. Tracking says it's still in the warehouse. I'm out of pills.",
+    "status": "Waiting on Customer",
+    "priority": "Medium",
+    "origin": "Web",
+    "reason": "Prescription",
+    "type": "Pharmacy",
+    "created_at": "2026-05-10T17:30:00+00:00",
+    "closed_at": null,
+    "is_escalated": false,
+    "owner_name": "Sam Okafor",
+    "owner_changes": 0,
+    "sla_target_at": null,
+    "sla_breached": false,
+    "contact_name": "Greta Bell",
+    "account_name": "Johansson Family",
+    "account_type": "Individual Plan",
+    "comments": [
+      {
+        "author": "Avery Patel",
+        "body": "Confirmed information with member and updated record. Awaiting response from provider.",
+        "at": "2026-05-11T04:17:00+00:00"
+      }
+    ],
+    "history": []
+  },
+  {
+    "id": "500Syn0032",
+    "case_number": "00100032",
+    "subject": "Lost wallet, urgent ID card",
+    "description": "App shows my old plan info, not the new one that started May 1. Tried logging out and back in. Still wrong.",
+    "status": "Escalated",
+    "priority": "Medium",
+    "origin": "Chat",
+    "reason": "Member ID",
+    "type": "General Inquiry",
+    "created_at": "2026-05-10T23:34:00+00:00",
+    "closed_at": null,
+    "is_escalated": false,
+    "owner_name": "Quincy Adams",
+    "owner_changes": 0,
+    "sla_target_at": "2026-05-11T03:34:00+00:00",
+    "sla_breached": false,
+    "contact_name": "Uma Johansson",
+    "account_name": "Kim & Associates Group Plan",
+    "account_type": "Medicare Advantage",
+    "comments": [
+      {
+        "author": "Sam Okafor",
+        "body": "Confirmed information with member and updated record. Awaiting response from provider.",
+        "at": "2026-05-11T03:55:00+00:00"
+      }
+    ],
+    "history": []
+  },
+  {
+    "id": "500Syn0033",
+    "case_number": "00100033",
+    "subject": "FSA rollover question",
+    "description": "FSA had $400 left at end of year. Plan says rollover up to $610. Where did my money go.",
+    "status": "Closed",
+    "priority": "Medium",
+    "origin": "Phone",
+    "reason": "FSA HSA",
+    "type": "Benefits",
+    "created_at": "2026-05-10T03:16:00+00:00",
+    "closed_at": "2026-05-10T07:49:00+00:00",
+    "is_escalated": false,
+    "owner_name": "Riley Chen",
+    "owner_changes": 0,
+    "sla_target_at": "2026-05-10T07:16:00+00:00",
+    "sla_breached": false,
+    "contact_name": "Beatrice Nguyen",
+    "account_name": "Johansson & Associates Group Plan",
+    "account_type": "Family Plan",
+    "comments": [
+      {
+        "author": "Quincy Adams",
+        "body": "Reached out to member, left voicemail. Will follow up tomorrow.",
+        "at": "2026-05-10T10:27:00+00:00"
+      },
+      {
+        "author": "Member",
+        "body": "Still waiting. This is unacceptable.",
+        "at": "2026-05-10T08:08:00+00:00"
+      }
+    ],
+    "history": []
+  },
+  {
+    "id": "500Syn0034",
+    "case_number": "00100034",
+    "subject": "Password reset email not arriving",
+    "description": "Two factor app gives a code, portal says invalid. Tried 4 times. Clock on my phone is correct.",
+    "status": "Working",
+    "priority": "Low",
+    "origin": "Provider Portal",
+    "reason": "Portal Access",
+    "type": "Technical",
+    "created_at": "2026-05-10T20:02:00+00:00",
+    "closed_at": null,
+    "is_escalated": false,
+    "owner_name": "Avery Patel",
+    "owner_changes": 0,
+    "sla_target_at": "2026-05-12T20:02:00+00:00",
+    "sla_breached": true,
+    "contact_name": "Vincent Fischer",
+    "account_name": "Watson Family",
+    "account_type": "Group Plan",
+    "comments": [
+      {
+        "author": "Quincy Adams",
+        "body": "Pending response from internal team, ETA 24-48 hours.",
+        "at": "2026-05-11T07:42:00+00:00"
+      }
+    ],
+    "history": []
+  },
+  {
+    "id": "500Syn0035",
+    "case_number": "00100035",
+    "subject": "PA submitted weeks ago, no response",
+    "description": "Need an MRI of the knee. PCP submitted PA last week, your portal says 'pending' with no detail. Surgeon's office is calling me daily asking for status.",
+    "status": "Escalated",
+    "priority": "Medium",
+    "origin": "Email",
+    "reason": "Prior Auth",
+    "type": "Authorization",
+    "created_at": "2026-05-10T06:15:00+00:00",
+    "closed_at": null,
+    "is_escalated": false,
+    "owner_name": "Sam Okafor",
+    "owner_changes": 0,
+    "sla_target_at": "2026-05-12T06:15:00+00:00",
+    "sla_breached": true,
+    "contact_name": "Jonas Bell",
+    "account_name": "Edwards Family",
+    "account_type": "Group Plan",
+    "comments": [
+      {
+        "author": "Devin Park",
+        "body": "Reached out to member, left voicemail. Will follow up tomorrow.",
+        "at": "2026-05-10T12:27:00+00:00"
+      },
+      {
+        "author": "Member",
+        "body": "Could you escalate this please.",
+        "at": "2026-05-10T15:33:00+00:00"
+      }
+    ],
+    "history": []
+  },
+  {
+    "id": "500Syn0036",
+    "case_number": "00100036",
+    "subject": "Cannot log into member portal",
+    "description": "Password reset email never arrives. Checked spam, junk, everything. Tried three different email addresses, none of them get the email.",
+    "status": "Resolved",
+    "priority": "Medium",
+    "origin": "Chat",
+    "reason": "Portal Access",
+    "type": "Technical",
+    "created_at": "2026-05-10T15:37:00+00:00",
+    "closed_at": "2026-05-10T21:52:00+00:00",
+    "is_escalated": true,
+    "owner_name": "Morgan Walsh",
+    "owner_changes": 0,
+    "sla_target_at": "2026-05-12T15:37:00+00:00",
+    "sla_breached": false,
+    "contact_name": "Elena Nguyen",
+    "account_name": "Diaz & Associates Group Plan",
+    "account_type": "Family Plan",
+    "comments": [
+      {
+        "author": "Riley Chen",
+        "body": "Reached out to member, left voicemail. Will follow up tomorrow.",
+        "at": "2026-05-11T00:23:00+00:00"
+      },
+      {
+        "author": "Member",
+        "body": "Still waiting. This is unacceptable.",
+        "at": "2026-05-10T18:11:00+00:00"
+      }
+    ],
+    "history": []
+  },
+  {
+    "id": "500Syn0037",
+    "case_number": "00100037",
+    "subject": "NICU coverage if early delivery",
+    "description": "20 week ultrasound flagged something, MFM specialist recommended. Verifying coverage before I schedule. Doctor mentioned multiple follow-up appointments.",
+    "status": "Resolved",
+    "priority": "Medium",
+    "origin": "Web",
+    "reason": "Maternity",
+    "type": "Clinical",
+    "created_at": "2026-05-10T19:35:00+00:00",
+    "closed_at": "2026-05-11T04:06:00+00:00",
+    "is_escalated": false,
+    "owner_name": "Riley Chen",
+    "owner_changes": 0,
+    "sla_target_at": null,
+    "sla_breached": false,
+    "contact_name": "Leon Xu",
+    "account_name": "Singh Family",
+    "account_type": "Medicaid",
+    "comments": [
+      {
+        "author": "Devin Park",
+        "body": "Documented details, opened ticket with backend team for resolution.",
+        "at": "2026-05-11T07:59:00+00:00"
+      }
+    ],
+    "history": []
+  },
+  {
+    "id": "500Syn0038",
+    "case_number": "00100038",
+    "subject": "Out-of-network coverage abroad",
+    "description": "Hearing aids - are they covered? I've heard yes and no from different reps. Definitive answer please.",
+    "status": "New",
+    "priority": "Medium",
+    "origin": "Email",
+    "reason": "Benefit Inquiry",
+    "type": "General Inquiry",
+    "created_at": "2026-05-10T23:39:00+00:00",
+    "closed_at": null,
+    "is_escalated": false,
+    "owner_name": "Taylor Brooks",
+    "owner_changes": 0,
+    "sla_target_at": "2026-05-12T23:39:00+00:00",
+    "sla_breached": true,
+    "contact_name": "Zoe Edwards",
+    "account_name": "Hassan & Associates Group Plan",
+    "account_type": "Group Plan",
+    "comments": [
+      {
+        "author": "Sam Okafor",
+        "body": "Walked member through portal steps. Issue resolved.",
+        "at": "2026-05-11T09:46:00+00:00"
+      }
+    ],
+    "history": []
+  },
+  {
+    "id": "500Syn0039",
+    "case_number": "00100039",
+    "subject": "Severe nausea since starting metformin",
+    "description": "Sister called - mom was prescribed a new antidepressant last week and has been having racing heart and tremor. Called the prescriber, no answer. What should she do?",
+    "status": "Escalated",
+    "priority": "High",
+    "origin": "Web",
+    "reason": "Adverse Event",
+    "type": "Pharmacy",
+    "created_at": "2026-05-10T05:43:00+00:00",
+    "closed_at": null,
+    "is_escalated": false,
+    "owner_name": "Taylor Brooks",
+    "owner_changes": 3,
+    "sla_target_at": "2026-05-10T13:43:00+00:00",
+    "sla_breached": false,
+    "contact_name": "Sofia Watson",
+    "account_name": "Martinez Family",
+    "account_type": "Family Plan",
+    "comments": [
+      {
+        "author": "Jordan Reyes",
+        "body": "Documented details, opened ticket with backend team for resolution.",
+        "at": "2026-05-10T14:46:00+00:00"
+      }
+    ],
+    "history": [
+      {
+        "field": "Owner",
+        "from": "Riley Chen",
+        "to": "Quincy Adams",
+        "by": "System",
+        "at": "2026-05-10T08:43:00+00:00"
+      },
+      {
+        "field": "Owner",
+        "from": "Quincy Adams",
+        "to": "Avery Patel",
+        "by": "System",
+        "at": "2026-05-10T11:21:00+00:00"
+      },
+      {
+        "field": "Owner",
+        "from": "Avery Patel",
+        "to": "Taylor Brooks",
+        "by": "System",
+        "at": "2026-05-10T12:07:00+00:00"
+      }
+    ]
+  },
+  {
+    "id": "500Syn0040",
+    "case_number": "00100040",
+    "subject": "Where is my prior auth for shoulder surgery",
+    "description": "Got a referral to see a rheumatologist - does this need a PA or is it just an in-network specialist visit? Conflicting info on the website.",
+    "status": "Resolved",
+    "priority": "High",
+    "origin": "Web",
+    "reason": "Prior Auth",
+    "type": "Authorization",
+    "created_at": "2026-05-10T23:47:00+00:00",
+    "closed_at": "2026-05-11T02:02:00+00:00",
+    "is_escalated": false,
+    "owner_name": "Sam Okafor",
+    "owner_changes": 0,
+    "sla_target_at": null,
+    "sla_breached": false,
+    "contact_name": "Zoe Young",
+    "account_name": "Singh Family",
+    "account_type": "Medicaid",
+    "comments": [
+      {
+        "author": "Skylar Vasquez",
+        "body": "Pending response from internal team, ETA 24-48 hours.",
+        "at": "2026-05-11T03:47:00+00:00"
+      },
+      {
+        "author": "Member",
+        "body": "Still waiting. This is unacceptable.",
+        "at": "2026-05-11T04:39:00+00:00"
+      },
+      {
+        "author": "Morgan Walsh",
+        "body": "Walked member through portal steps. Issue resolved.",
+        "at": "2026-05-11T01:25:00+00:00"
+      }
+    ],
+    "history": []
+  },
+  {
+    "id": "500Syn0041",
+    "case_number": "00100041",
+    "subject": "Telehealth video keeps freezing",
+    "description": "Had a telehealth appointment scheduled for 10am. Joined the link, waiting room for 45 minutes. Provider never showed. Now I'm being told I'll be charged a no-show fee. This is ridiculous.",
+    "status": "Closed",
+    "priority": "Medium",
+    "origin": "Phone",
+    "reason": "Telehealth",
+    "type": "Technical",
+    "created_at": "2026-05-10T11:05:00+00:00",
+    "closed_at": "2026-05-10T21:52:00+00:00",
+    "is_escalated": false,
+    "owner_name": "Skylar Vasquez",
+    "owner_changes": 0,
+    "sla_target_at": "2026-05-10T19:05:00+00:00",
+    "sla_breached": false,
+    "contact_name": "Zoe Patel",
+    "account_name": "Vasquez & Associates Group Plan",
+    "account_type": "Individual Plan",
+    "comments": [
+      {
+        "author": "Morgan Walsh",
+        "body": "Documented details, opened ticket with backend team for resolution.",
+        "at": "2026-05-10T22:19:00+00:00"
+      },
+      {
+        "author": "Member",
+        "body": "Spoke with my doctor's office, they have not heard back from you.",
+        "at": "2026-05-10T14:51:00+00:00"
+      }
+    ],
+    "history": []
+  },
+  {
+    "id": "500Syn0042",
+    "case_number": "00100042",
+    "subject": "Lost wallet, urgent ID card",
+    "description": "Lost my wallet on the train this morning. I have a doctor's appointment at 3pm. Can you email me a temporary digital ID?",
+    "status": "New",
+    "priority": "Medium",
+    "origin": "Email",
+    "reason": "Member ID",
+    "type": "General Inquiry",
+    "created_at": "2026-05-10T02:39:00+00:00",
+    "closed_at": null,
+    "is_escalated": false,
+    "owner_name": "Riley Chen",
+    "owner_changes": 0,
+    "sla_target_at": null,
+    "sla_breached": false,
+    "contact_name": "Hiroshi Rodriguez",
+    "account_name": "Kim Family",
+    "account_type": "Family Plan",
+    "comments": [
+      {
+        "author": "Morgan Walsh",
+        "body": "Documented details, opened ticket with backend team for resolution.",
+        "at": "2026-05-10T06:14:00+00:00"
+      }
+    ],
+    "history": []
+  },
+  {
+    "id": "500Syn0043",
+    "case_number": "00100043",
+    "subject": "Cannot log into member portal",
+    "description": "Multi-factor code never arrives via SMS. Used to work fine. Possibly because I switched carriers? Need to update my phone number but I can't log in to do that.",
+    "status": "Resolved",
+    "priority": "Low",
+    "origin": "Web",
+    "reason": "Portal Access",
+    "type": "Technical",
+    "created_at": "2026-05-10T21:07:00+00:00",
+    "closed_at": "2026-05-11T02:14:00+00:00",
+    "is_escalated": false,
+    "owner_name": "Skylar Vasquez",
+    "owner_changes": 0,
+    "sla_target_at": null,
+    "sla_breached": false,
+    "contact_name": "Zoe Fischer",
+    "account_name": "Singh & Associates Group Plan",
+    "account_type": "Group Plan",
+    "comments": [],
+    "history": []
+  },
+  {
+    "id": "500Syn0044",
+    "case_number": "00100044",
+    "subject": "Password reset email not arriving",
+    "description": "Two factor app gives a code, portal says invalid. Tried 4 times. Clock on my phone is correct.",
+    "status": "Escalated",
+    "priority": "Medium",
+    "origin": "Chat",
+    "reason": "Portal Access",
+    "type": "Technical",
+    "created_at": "2026-05-10T17:42:00+00:00",
+    "closed_at": null,
+    "is_escalated": false,
+    "owner_name": "Morgan Walsh",
+    "owner_changes": 0,
+    "sla_target_at": "2026-05-12T17:42:00+00:00",
+    "sla_breached": false,
+    "contact_name": "Hank Anderson",
+    "account_name": "Anderson Family",
+    "account_type": "Family Plan",
+    "comments": [
+      {
+        "author": "Quincy Adams",
+        "body": "Confirmed information with member and updated record. Awaiting response from provider.",
+        "at": "2026-05-10T20:33:00+00:00"
+      }
+    ],
+    "history": []
+  },
+  {
+    "id": "500Syn0045",
+    "case_number": "00100045",
+    "subject": "Removing ex-spouse from plan",
+    "description": "Baby born May 3. Need to add him to my plan effective birthdate. Hospital is asking for insurance info before discharge.",
+    "status": "Waiting on Customer",
+    "priority": "Medium",
+    "origin": "Provider Portal",
+    "reason": "Enrollment Change",
+    "type": "Enrollment",
+    "created_at": "2026-05-10T15:36:00+00:00",
+    "closed_at": null,
+    "is_escalated": true,
+    "owner_name": "Jordan Reyes",
+    "owner_changes": 0,
+    "sla_target_at": "2026-05-10T23:36:00+00:00",
+    "sla_breached": false,
+    "contact_name": "Cody Fischer",
+    "account_name": "Hassan Family",
+    "account_type": "Individual Plan",
+    "comments": [],
+    "history": [
+      {
+        "field": "IsEscalated",
+        "from": "false",
+        "to": "true",
+        "by": "Jordan Reyes",
+        "at": "2026-05-10T22:36:00+00:00"
+      }
+    ]
+  },
+  {
+    "id": "500Syn0046",
+    "case_number": "00100046",
+    "subject": "FSA rollover question",
+    "description": "Submitted receipt for prescription glasses for FSA reimbursement. Denied as 'ineligible.' Glasses are absolutely eligible. What's the deal.",
+    "status": "Resolved",
+    "priority": "Low",
+    "origin": "Chat",
+    "reason": "FSA HSA",
+    "type": "Benefits",
+    "created_at": "2026-05-10T10:43:00+00:00",
+    "closed_at": "2026-05-10T18:56:00+00:00",
+    "is_escalated": false,
+    "owner_name": "Skylar Vasquez",
+    "owner_changes": 0,
+    "sla_target_at": null,
+    "sla_breached": false,
+    "contact_name": "Carla Tanaka",
+    "account_name": "Liu Family",
+    "account_type": "Group Plan",
+    "comments": [
+      {
+        "author": "Avery Patel",
+        "body": "Confirmed information with member and updated record. Awaiting response from provider.",
+        "at": "2026-05-10T19:14:00+00:00"
+      }
+    ],
+    "history": []
+  },
+  {
+    "id": "500Syn0047",
+    "case_number": "00100047",
+    "subject": "Mail-order Rx hasn't arrived",
+    "description": "Trying to refill my statin, system says 'PA required' but my doctor already submitted that paperwork in February. What is going on.",
+    "status": "Resolved",
+    "priority": "Medium",
+    "origin": "Email",
+    "reason": "Prescription",
+    "type": "Pharmacy",
+    "created_at": "2026-05-10T19:02:00+00:00",
+    "closed_at": "2026-05-11T01:46:00+00:00",
+    "is_escalated": false,
+    "owner_name": "Riley Chen",
+    "owner_changes": 0,
+    "sla_target_at": null,
+    "sla_breached": false,
+    "contact_name": "Yusuf Young",
+    "account_name": "Kim & Associates Group Plan",
+    "account_type": "Medicare Advantage",
+    "comments": [
+      {
+        "author": "Jordan Reyes",
+        "body": "Confirmed information with member and updated record. Awaiting response from provider.",
+        "at": "2026-05-11T03:59:00+00:00"
+      },
+      {
+        "author": "Member",
+        "body": "Could you escalate this please.",
+        "at": "2026-05-11T06:42:00+00:00"
+      }
+    ],
+    "history": []
+  },
+  {
+    "id": "500Syn0048",
+    "case_number": "00100048",
+    "subject": "PA submitted weeks ago, no response",
+    "description": "PA denied for the new GLP-1. Doctor says it's medically necessary, I have BMI 38 and prediabetes. What's the appeal process.",
+    "status": "Escalated",
+    "priority": "High",
+    "origin": "Provider Portal",
+    "reason": "Prior Auth",
+    "type": "Authorization",
+    "created_at": "2026-05-10T22:52:00+00:00",
+    "closed_at": null,
+    "is_escalated": false,
+    "owner_name": "Skylar Vasquez",
+    "owner_changes": 1,
+    "sla_target_at": "2026-05-11T02:52:00+00:00",
+    "sla_breached": true,
+    "contact_name": "Dante Rodriguez",
+    "account_name": "Tanaka Family",
+    "account_type": "Medicaid",
+    "comments": [
+      {
+        "author": "Taylor Brooks",
+        "body": "Walked member through portal steps. Issue resolved.",
+        "at": "2026-05-11T10:12:00+00:00"
+      },
+      {
+        "author": "Member",
+        "body": "I tried what you suggested, it didn't work.",
+        "at": "2026-05-11T08:05:00+00:00"
+      }
+    ],
+    "history": [
+      {
+        "field": "Owner",
+        "from": "Morgan Walsh",
+        "to": "Skylar Vasquez",
+        "by": "System",
+        "at": "2026-05-11T07:56:00+00:00"
+      }
+    ]
+  },
+  {
+    "id": "500Syn0049",
+    "case_number": "00100049",
+    "subject": "Need replacement ID card",
+    "description": "App shows my old plan info, not the new one that started May 1. Tried logging out and back in. Still wrong.",
+    "status": "Closed",
+    "priority": "Medium",
+    "origin": "Provider Portal",
+    "reason": "Member ID",
+    "type": "General Inquiry",
+    "created_at": "2026-05-10T09:44:00+00:00",
+    "closed_at": "2026-05-10T20:16:00+00:00",
+    "is_escalated": false,
+    "owner_name": "Riley Chen",
+    "owner_changes": 0,
+    "sla_target_at": "2026-05-12T09:44:00+00:00",
+    "sla_breached": false,
+    "contact_name": "Beatrice Johansson",
+    "account_name": "Nguyen & Associates Group Plan",
+    "account_type": "Individual Plan",
+    "comments": [
+      {
+        "author": "Devin Park",
+        "body": "Reached out to member, left voicemail. Will follow up tomorrow.",
+        "at": "2026-05-10T12:32:00+00:00"
+      }
+    ],
+    "history": []
+  },
+  {
+    "id": "500Syn0050",
+    "case_number": "00100050",
+    "subject": "HSA debit card declined at dentist",
+    "description": "Submitted receipt for prescription glasses for FSA reimbursement. Denied as 'ineligible.' Glasses are absolutely eligible. What's the deal.",
+    "status": "Waiting on Customer",
+    "priority": "High",
+    "origin": "Web",
+    "reason": "FSA HSA",
+    "type": "Benefits",
+    "created_at": "2026-05-10T19:22:00+00:00",
+    "closed_at": null,
+    "is_escalated": false,
+    "owner_name": "Taylor Brooks",
+    "owner_changes": 0,
+    "sla_target_at": "2026-05-10T23:22:00+00:00",
+    "sla_breached": false,
+    "contact_name": "Quinn Anderson",
+    "account_name": "Tanaka Family",
+    "account_type": "Group Plan",
+    "comments": [
+      {
+        "author": "Avery Patel",
+        "body": "Documented details, opened ticket with backend team for resolution.",
+        "at": "2026-05-10T23:52:00+00:00"
+      }
+    ],
+    "history": []
+  },
+  {
+    "id": "500Syn0051",
+    "case_number": "00100051",
+    "subject": "Need behavioral health resources urgently",
+    "description": "Looking for a psychiatrist who takes our plan and can see me within the next week. The directory is months out of date - every number I call says they're not taking new patients.",
+    "status": "New",
+    "priority": "High",
+    "origin": "Email",
+    "reason": "Behavioral Health",
+    "type": "Clinical",
+    "created_at": "2026-05-10T19:15:00+00:00",
+    "closed_at": null,
+    "is_escalated": true,
+    "owner_name": "Jordan Reyes",
+    "owner_changes": 0,
+    "sla_target_at": null,
+    "sla_breached": false,
+    "contact_name": "Aisha Patel",
+    "account_name": "Martinez & Associates Group Plan",
+    "account_type": "Medicare Advantage",
+    "comments": [],
+    "history": [
+      {
+        "field": "IsEscalated",
+        "from": "false",
+        "to": "true",
+        "by": "Jordan Reyes",
+        "at": "2026-05-10T21:15:00+00:00"
+      }
+    ]
+  },
+  {
+    "id": "500Syn0052",
+    "case_number": "00100052",
+    "subject": "Refill not processing at CVS",
+    "description": "Trying to refill my statin, system says 'PA required' but my doctor already submitted that paperwork in February. What is going on.",
+    "status": "Waiting on Customer",
+    "priority": "High",
+    "origin": "Provider Portal",
+    "reason": "Prescription",
+    "type": "Pharmacy",
+    "created_at": "2026-05-10T00:09:00+00:00",
+    "closed_at": null,
+    "is_escalated": false,
+    "owner_name": "Devin Park",
+    "owner_changes": 0,
+    "sla_target_at": null,
+    "sla_breached": false,
+    "contact_name": "Jamal Patel",
+    "account_name": "Fischer Family",
+    "account_type": "Medicare Advantage",
+    "comments": [
+      {
+        "author": "Morgan Walsh",
+        "body": "Reached out to member, left voicemail. Will follow up tomorrow.",
+        "at": "2026-05-10T11:11:00+00:00"
+      },
+      {
+        "author": "Member",
+        "body": "Spoke with my doctor's office, they have not heard back from you.",
+        "at": "2026-05-10T03:35:00+00:00"
+      }
+    ],
+    "history": []
+  },
+  {
+    "id": "500Syn0053",
+    "case_number": "00100053",
+    "subject": "Help finding therapist - struggling",
+    "description": "My son was admitted to inpatient psych at Community Hospital last night after a suicide attempt. Trying to understand what coverage looks like and what we need to do for discharge planning.",
+    "status": "Waiting on Customer",
+    "priority": "High",
+    "origin": "Chat",
+    "reason": "Behavioral Health",
+    "type": "Clinical",
+    "created_at": "2026-05-10T05:15:00+00:00",
+    "closed_at": null,
+    "is_escalated": true,
+    "owner_name": "Casey Liu",
+    "owner_changes": 0,
+    "sla_target_at": null,
+    "sla_breached": false,
+    "contact_name": "Luis Watson",
+    "account_name": "Fischer Family",
+    "account_type": "Medicaid",
+    "comments": [
+      {
+        "author": "Casey Liu",
+        "body": "Reached out to member, left voicemail. Will follow up tomorrow.",
+        "at": "2026-05-10T17:22:00+00:00"
+      }
+    ],
+    "history": [
+      {
+        "field": "IsEscalated",
+        "from": "false",
+        "to": "true",
+        "by": "Riley Chen",
+        "at": "2026-05-10T10:15:00+00:00"
+      }
+    ]
+  },
+  {
+    "id": "500Syn0054",
+    "case_number": "00100054",
+    "subject": "Coordination of benefits update needed",
+    "description": "Husband is veteran, has VA coverage. I have your plan. When he visits non-VA doctors, who pays.",
+    "status": "Resolved",
+    "priority": "Low",
+    "origin": "Provider Portal",
+    "reason": "COB",
+    "type": "Claims",
+    "created_at": "2026-05-10T07:06:00+00:00",
+    "closed_at": "2026-05-10T17:34:00+00:00",
+    "is_escalated": false,
+    "owner_name": "Sam Okafor",
+    "owner_changes": 0,
+    "sla_target_at": null,
+    "sla_breached": false,
+    "contact_name": "Kara Nguyen",
+    "account_name": "Diaz Family",
+    "account_type": "Medicaid",
+    "comments": [
+      {
+        "author": "Morgan Walsh",
+        "body": "Reached out to member, left voicemail. Will follow up tomorrow.",
+        "at": "2026-05-10T18:28:00+00:00"
+      },
+      {
+        "author": "Member",
+        "body": "I tried what you suggested, it didn't work.",
+        "at": "2026-05-10T17:11:00+00:00"
+      }
+    ],
+    "history": []
+  },
+  {
+    "id": "500Syn0055",
+    "case_number": "00100055",
+    "subject": "NICU coverage if early delivery",
+    "description": "Touring two hospitals for delivery. Hospital A is in network, hospital B has the better NICU. Coverage difference if I deliver at B?",
+    "status": "Working",
+    "priority": "Medium",
+    "origin": "Phone",
+    "reason": "Maternity",
+    "type": "Clinical",
+    "created_at": "2026-05-10T03:29:00+00:00",
+    "closed_at": null,
+    "is_escalated": true,
+    "owner_name": "Skylar Vasquez",
+    "owner_changes": 0,
+    "sla_target_at": null,
+    "sla_breached": false,
+    "contact_name": "Yusuf Liu",
+    "account_name": "Gupta Family",
+    "account_type": "Individual Plan",
+    "comments": [
+      {
+        "author": "Riley Chen",
+        "body": "Walked member through portal steps. Issue resolved.",
+        "at": "2026-05-10T11:36:00+00:00"
+      }
+    ],
+    "history": [
+      {
+        "field": "IsEscalated",
+        "from": "false",
+        "to": "true",
+        "by": "Jordan Reyes",
+        "at": "2026-05-10T07:29:00+00:00"
+      }
+    ]
+  },
+  {
+    "id": "500Syn0056",
+    "case_number": "00100056",
+    "subject": "Crisis line referral question",
+    "description": "I called the 24/7 nurse line last night about my anxiety, they were helpful but I need a real therapist not a chat bot. What's covered.",
+    "status": "Working",
+    "priority": "Critical",
+    "origin": "Chat",
+    "reason": "Behavioral Health",
+    "type": "Clinical",
+    "created_at": "2026-05-10T16:49:00+00:00",
+    "closed_at": null,
+    "is_escalated": false,
+    "owner_name": "Skylar Vasquez",
+    "owner_changes": 2,
+    "sla_target_at": null,
+    "sla_breached": false,
+    "contact_name": "Zoe Underwood",
+    "account_name": "Underwood & Associates Group Plan",
+    "account_type": "Family Plan",
+    "comments": [
+      {
+        "author": "Casey Liu",
+        "body": "Provided 24/7 crisis line and three behavioral health resources in network. Member committed to following up today.",
+        "at": "2026-05-11T05:21:00+00:00"
+      },
+      {
+        "author": "Member",
+        "body": "Could you escalate this please.",
+        "at": "2026-05-10T21:30:00+00:00"
+      }
+    ],
+    "history": [
+      {
+        "field": "Owner",
+        "from": "Jordan Reyes",
+        "to": "Skylar Vasquez",
+        "by": "System",
+        "at": "2026-05-10T20:10:00+00:00"
+      },
+      {
+        "field": "Owner",
+        "from": "Avery Patel",
+        "to": "Jordan Reyes",
+        "by": "System",
+        "at": "2026-05-10T22:50:00+00:00"
+      }
+    ]
+  },
+  {
+    "id": "500Syn0057",
+    "case_number": "00100057",
+    "subject": "Hospital tour - coverage questions",
+    "description": "I'm 30 weeks. If baby comes early and needs NICU, what does my plan cover. Trying to plan financially.",
+    "status": "Working",
+    "priority": "Medium",
+    "origin": "Email",
+    "reason": "Maternity",
+    "type": "Clinical",
+    "created_at": "2026-05-10T20:53:00+00:00",
+    "closed_at": null,
+    "is_escalated": false,
+    "owner_name": "Skylar Vasquez",
+    "owner_changes": 0,
+    "sla_target_at": "2026-05-11T00:53:00+00:00",
+    "sla_breached": false,
+    "contact_name": "Kara Ibrahim",
+    "account_name": "Watson Family",
+    "account_type": "Medicare Advantage",
+    "comments": [],
+    "history": []
+  },
+  {
+    "id": "500Syn0058",
+    "case_number": "00100058",
+    "subject": "Lost wallet, urgent ID card",
+    "description": "Lost my wallet on the train this morning. I have a doctor's appointment at 3pm. Can you email me a temporary digital ID?",
+    "status": "Closed",
+    "priority": "Low",
+    "origin": "Web",
+    "reason": "Member ID",
+    "type": "General Inquiry",
+    "created_at": "2026-05-10T22:09:00+00:00",
+    "closed_at": "2026-05-11T02:40:00+00:00",
+    "is_escalated": false,
+    "owner_name": "Taylor Brooks",
+    "owner_changes": 0,
+    "sla_target_at": "2026-05-11T06:09:00+00:00",
+    "sla_breached": false,
+    "contact_name": "Hiroshi Patel",
+    "account_name": "Bell & Associates Group Plan",
+    "account_type": "Individual Plan",
+    "comments": [
+      {
+        "author": "Casey Liu",
+        "body": "Walked member through portal steps. Issue resolved.",
+        "at": "2026-05-11T07:45:00+00:00"
+      },
+      {
+        "author": "Member",
+        "body": "Still waiting. This is unacceptable.",
+        "at": "2026-05-11T03:00:00+00:00"
+      },
+      {
+        "author": "Devin Park",
+        "body": "Documented details, opened ticket with backend team for resolution.",
+        "at": "2026-05-11T05:33:00+00:00"
+      },
+      {
+        "author": "Member",
+        "body": "Could you escalate this please.",
+        "at": "2026-05-11T06:29:00+00:00"
+      }
+    ],
+    "history": []
+  },
+  {
+    "id": "500Syn0059",
+    "case_number": "00100059",
+    "subject": "Eligible expenses for HSA",
+    "description": "HSA card declined at dentist for a crown. Have funds in the account. Tried twice. Embarrassed and need to know why.",
+    "status": "Closed",
+    "priority": "High",
+    "origin": "Phone",
+    "reason": "FSA HSA",
+    "type": "Benefits",
+    "created_at": "2026-05-10T02:53:00+00:00",
+    "closed_at": "2026-05-10T05:22:00+00:00",
+    "is_escalated": false,
+    "owner_name": "Morgan Walsh",
+    "owner_changes": 0,
+    "sla_target_at": "2026-05-12T02:53:00+00:00",
+    "sla_breached": false,
+    "contact_name": "Greta Diaz",
+    "account_name": "Johansson & Associates Group Plan",
+    "account_type": "Family Plan",
+    "comments": [],
+    "history": []
+  },
+  {
+    "id": "500Syn0060",
+    "case_number": "00100060",
+    "subject": "Digital ID not loading in app",
+    "description": "App shows my old plan info, not the new one that started May 1. Tried logging out and back in. Still wrong.",
+    "status": "Resolved",
+    "priority": "Low",
+    "origin": "Phone",
+    "reason": "Member ID",
+    "type": "General Inquiry",
+    "created_at": "2026-05-10T02:39:00+00:00",
+    "closed_at": "2026-05-10T03:44:00+00:00",
+    "is_escalated": false,
+    "owner_name": "Skylar Vasquez",
+    "owner_changes": 0,
+    "sla_target_at": null,
+    "sla_breached": false,
+    "contact_name": "Priya Rodriguez",
+    "account_name": "Kim Family",
+    "account_type": "Medicare Advantage",
+    "comments": [
+      {
+        "author": "Jordan Reyes",
+        "body": "Confirmed information with member and updated record. Awaiting response from provider.",
+        "at": "2026-05-10T07:55:00+00:00"
+      }
+    ],
+    "history": []
+  },
+  {
+    "id": "500Syn0061",
+    "case_number": "00100061",
+    "subject": "FSA reimbursement denied",
+    "description": "HSA card declined at dentist for a crown. Have funds in the account. Tried twice. Embarrassed and need to know why.",
+    "status": "Waiting on Customer",
+    "priority": "Medium",
+    "origin": "Web",
+    "reason": "FSA HSA",
+    "type": "Benefits",
+    "created_at": "2026-05-10T17:51:00+00:00",
+    "closed_at": null,
+    "is_escalated": true,
+    "owner_name": "Morgan Walsh",
+    "owner_changes": 0,
+    "sla_target_at": "2026-05-10T21:51:00+00:00",
+    "sla_breached": false,
+    "contact_name": "Xander Diaz",
+    "account_name": "Quinn & Associates Group Plan",
+    "account_type": "Medicaid",
+    "comments": [
+      {
+        "author": "Morgan Walsh",
+        "body": "Documented details, opened ticket with backend team for resolution.",
+        "at": "2026-05-10T20:54:00+00:00"
+      }
+    ],
+    "history": [
+      {
+        "field": "IsEscalated",
+        "from": "false",
+        "to": "true",
+        "by": "Taylor Brooks",
+        "at": "2026-05-10T23:51:00+00:00"
+      }
+    ]
+  },
+  {
+    "id": "500Syn0062",
+    "case_number": "00100062",
+    "subject": "Provider directory is wrong",
+    "description": "Trying to verify if Dr. Patel at Lakeside Medical is in network for plan year 2026.",
+    "status": "Closed",
+    "priority": "Medium",
+    "origin": "Web",
+    "reason": "Provider Search",
+    "type": "General Inquiry",
+    "created_at": "2026-05-10T11:43:00+00:00",
+    "closed_at": "2026-05-10T16:07:00+00:00",
+    "is_escalated": false,
+    "owner_name": "Avery Patel",
+    "owner_changes": 0,
+    "sla_target_at": "2026-05-10T19:43:00+00:00",
+    "sla_breached": false,
+    "contact_name": "Iris Young",
+    "account_name": "Liu Family",
+    "account_type": "Medicare Advantage",
+    "comments": [
+      {
+        "author": "Casey Liu",
+        "body": "Documented details, opened ticket with backend team for resolution.",
+        "at": "2026-05-10T16:37:00+00:00"
+      }
+    ],
+    "history": []
+  },
+  {
+    "id": "500Syn0063",
+    "case_number": "00100063",
+    "subject": "Digital ID not loading in app",
+    "description": "id card never arrived. moved 6 weeks ago, address updated.",
+    "status": "Waiting on Customer",
+    "priority": "Medium",
+    "origin": "Phone",
+    "reason": "Member ID",
+    "type": "General Inquiry",
+    "created_at": "2026-05-10T23:14:00+00:00",
+    "closed_at": null,
+    "is_escalated": false,
+    "owner_name": "Sam Okafor",
+    "owner_changes": 0,
+    "sla_target_at": null,
+    "sla_breached": false,
+    "contact_name": "Elena Zhao",
+    "account_name": "Nguyen Family",
+    "account_type": "Medicare Advantage",
+    "comments": [
+      {
+        "author": "Taylor Brooks",
+        "body": "Walked member through portal steps. Issue resolved.",
+        "at": "2026-05-11T05:10:00+00:00"
+      }
+    ],
+    "history": []
+  },
+  {
+    "id": "500Syn0064",
+    "case_number": "00100064",
+    "subject": "Genetic testing coverage in pregnancy",
+    "description": "Touring two hospitals for delivery. Hospital A is in network, hospital B has the better NICU. Coverage difference if I deliver at B?",
+    "status": "Closed",
+    "priority": "High",
+    "origin": "Provider Portal",
+    "reason": "Maternity",
+    "type": "Clinical",
+    "created_at": "2026-05-10T17:36:00+00:00",
+    "closed_at": "2026-05-10T19:32:00+00:00",
+    "is_escalated": false,
+    "owner_name": "Avery Patel",
+    "owner_changes": 0,
+    "sla_target_at": null,
+    "sla_breached": false,
+    "contact_name": "Kim Ibrahim",
+    "account_name": "Vasquez Family",
+    "account_type": "Individual Plan",
+    "comments": [
+      {
+        "author": "Riley Chen",
+        "body": "Documented details, opened ticket with backend team for resolution.",
+        "at": "2026-05-10T21:42:00+00:00"
+      }
+    ],
+    "history": []
+  },
+  {
+    "id": "500Syn0065",
+    "case_number": "00100065",
+    "subject": "Severe nausea since starting metformin",
+    "description": "Member reports severe GI upset and vomiting within 48 hours of starting metformin XR 500mg. Pharmacist suggested member contact insurer about prior authorization for brand-name equivalent. Member is concerned and wants to know next steps before continuing dose tonight.",
+    "status": "Closed",
+    "priority": "High",
+    "origin": "Chat",
+    "reason": "Adverse Event",
+    "type": "Pharmacy",
+    "created_at": "2026-05-10T08:10:00+00:00",
+    "closed_at": "2026-05-10T10:01:00+00:00",
+    "is_escalated": true,
+    "owner_name": "Morgan Walsh",
+    "owner_changes": 0,
+    "sla_target_at": "2026-05-11T08:10:00+00:00",
+    "sla_breached": false,
+    "contact_name": "Priya Vasquez",
+    "account_name": "Kim Family",
+    "account_type": "Family Plan",
+    "comments": [
+      {
+        "author": "Sam Okafor",
+        "body": "Documented details, opened ticket with backend team for resolution.",
+        "at": "2026-05-10T20:22:00+00:00"
+      }
+    ],
+    "history": []
+  },
+  {
+    "id": "500Syn0066",
+    "case_number": "00100066",
+    "subject": "Refill not processing at CVS",
+    "description": "refill stuck. pharm says contact insurance. been on this med 4 yrs.",
+    "status": "Closed",
+    "priority": "Medium",
+    "origin": "Email",
+    "reason": "Prescription",
+    "type": "Pharmacy",
+    "created_at": "2026-05-10T10:55:00+00:00",
+    "closed_at": "2026-05-10T19:40:00+00:00",
+    "is_escalated": false,
+    "owner_name": "Riley Chen",
+    "owner_changes": 0,
+    "sla_target_at": null,
+    "sla_breached": false,
+    "contact_name": "Tomas Xu",
+    "account_name": "Young Family",
+    "account_type": "Individual Plan",
+    "comments": [
+      {
+        "author": "Taylor Brooks",
+        "body": "Documented details, opened ticket with backend team for resolution.",
+        "at": "2026-05-10T15:36:00+00:00"
+      }
+    ],
+    "history": []
+  },
+  {
+    "id": "500Syn0067",
+    "case_number": "00100067",
+    "subject": "Specialist referral - is auth needed?",
+    "description": "Need an MRI of the knee. PCP submitted PA last week, your portal says 'pending' with no detail. Surgeon's office is calling me daily asking for status.",
+    "status": "Waiting on Customer",
+    "priority": "Medium",
+    "origin": "Provider Portal",
+    "reason": "Prior Auth",
+    "type": "Authorization",
+    "created_at": "2026-05-10T13:10:00+00:00",
+    "closed_at": null,
+    "is_escalated": false,
+    "owner_name": "Devin Park",
+    "owner_changes": 0,
+    "sla_target_at": "2026-05-12T13:10:00+00:00",
+    "sla_breached": false,
+    "contact_name": "Tomas Ibrahim",
+    "account_name": "Chen Family",
+    "account_type": "Family Plan",
+    "comments": [
+      {
+        "author": "Avery Patel",
+        "body": "Documented details, opened ticket with backend team for resolution.",
+        "at": "2026-05-11T02:03:00+00:00"
+      },
+      {
+        "author": "Member",
+        "body": "Still waiting. This is unacceptable.",
+        "at": "2026-05-10T21:03:00+00:00"
+      }
+    ],
+    "history": []
+  },
+  {
+    "id": "500Syn0068",
+    "case_number": "00100068",
+    "subject": "Crisis line referral question",
+    "description": "I called the 24/7 nurse line last night about my anxiety, they were helpful but I need a real therapist not a chat bot. What's covered.",
+    "status": "Working",
+    "priority": "High",
+    "origin": "Email",
+    "reason": "Behavioral Health",
+    "type": "Clinical",
+    "created_at": "2026-05-10T15:08:00+00:00",
+    "closed_at": null,
+    "is_escalated": true,
+    "owner_name": "Avery Patel",
+    "owner_changes": 0,
+    "sla_target_at": "2026-05-11T15:08:00+00:00",
+    "sla_breached": false,
+    "contact_name": "Willa Fischer",
+    "account_name": "Patel Family",
+    "account_type": "Family Plan",
+    "comments": [
+      {
+        "author": "Devin Park",
+        "body": "Confirmed information with member and updated record. Awaiting response from provider.",
+        "at": "2026-05-10T21:50:00+00:00"
+      }
+    ],
+    "history": [
+      {
+        "field": "IsEscalated",
+        "from": "false",
+        "to": "true",
+        "by": "Quincy Adams",
+        "at": "2026-05-10T23:08:00+00:00"
+      }
+    ]
+  },
+  {
+    "id": "500Syn0069",
+    "case_number": "00100069",
+    "subject": "Spouse needs separate ID card",
+    "description": "Spouse needs her own physical card, she keeps getting turned away at the pharmacy because they want to see her card not mine.",
+    "status": "Working",
+    "priority": "Medium",
+    "origin": "Provider Portal",
+    "reason": "Member ID",
+    "type": "General Inquiry",
+    "created_at": "2026-05-10T00:05:00+00:00",
+    "closed_at": null,
+    "is_escalated": false,
+    "owner_name": "Morgan Walsh",
+    "owner_changes": 0,
+    "sla_target_at": "2026-05-10T08:05:00+00:00",
+    "sla_breached": false,
+    "contact_name": "Kim Hassan",
+    "account_name": "Edwards Family",
+    "account_type": "Medicaid",
+    "comments": [],
+    "history": []
+  },
+  {
+    "id": "500Syn0070",
+    "case_number": "00100070",
+    "subject": "Digital ID not loading in app",
+    "description": "id card never arrived. moved 6 weeks ago, address updated.",
+    "status": "Closed",
+    "priority": "Medium",
+    "origin": "Chat",
+    "reason": "Member ID",
+    "type": "General Inquiry",
+    "created_at": "2026-05-10T04:42:00+00:00",
+    "closed_at": "2026-05-10T06:04:00+00:00",
+    "is_escalated": false,
+    "owner_name": "Avery Patel",
+    "owner_changes": 0,
+    "sla_target_at": null,
+    "sla_breached": false,
+    "contact_name": "Mei Johansson",
+    "account_name": "Anderson Family",
+    "account_type": "Group Plan",
+    "comments": [],
+    "history": []
+  },
+  {
+    "id": "500Syn0071",
+    "case_number": "00100071",
+    "subject": "External review request",
+    "description": "First-level appeal denied. Want to escalate to external review. What's the process and timeline. Also planning to file with state insurance commissioner.",
+    "status": "Working",
+    "priority": "High",
+    "origin": "Email",
+    "reason": "Formal Appeal",
+    "type": "Appeals",
+    "created_at": "2026-05-10T22:51:00+00:00",
+    "closed_at": null,
+    "is_escalated": false,
+    "owner_name": "Devin Park",
+    "owner_changes": 0,
+    "sla_target_at": "2026-05-12T22:51:00+00:00",
+    "sla_breached": true,
+    "contact_name": "Nadia Anderson",
+    "account_name": "Johansson Family",
+    "account_type": "Individual Plan",
+    "comments": [
+      {
+        "author": "Morgan Walsh",
+        "body": "Acknowledged receipt of formal appeal. Acknowledgment letter sent. Decision target within 30 days per plan documents.",
+        "at": "2026-05-11T02:31:00+00:00"
+      },
+      {
+        "author": "Member",
+        "body": "Still waiting. This is unacceptable.",
+        "at": "2026-05-11T08:42:00+00:00"
+      }
+    ],
+    "history": []
+  },
+  {
+    "id": "500Syn0072",
+    "case_number": "00100072",
+    "subject": "Charged for telehealth that didn't happen",
+    "description": "Telehealth video froze 5 times in 20 minutes. Provider gave up and asked me to come in. Now I'm being billed for both visits.",
+    "status": "Resolved",
+    "priority": "Medium",
+    "origin": "Email",
+    "reason": "Telehealth",
+    "type": "Technical",
+    "created_at": "2026-05-10T04:55:00+00:00",
+    "closed_at": "2026-05-10T12:20:00+00:00",
+    "is_escalated": false,
+    "owner_name": "Jordan Reyes",
+    "owner_changes": 0,
+    "sla_target_at": "2026-05-10T12:55:00+00:00",
+    "sla_breached": false,
+    "contact_name": "Vincent Chen",
+    "account_name": "Martinez Family",
+    "account_type": "Individual Plan",
+    "comments": [
+      {
+        "author": "Taylor Brooks",
+        "body": "Pending response from internal team, ETA 24-48 hours.",
+        "at": "2026-05-10T14:23:00+00:00"
+      },
+      {
+        "author": "Member",
+        "body": "Spoke with my doctor's office, they have not heard back from you.",
+        "at": "2026-05-10T06:30:00+00:00"
+      }
+    ],
+    "history": []
+  },
+  {
+    "id": "500Syn0073",
+    "case_number": "00100073",
+    "subject": "Coverage for ER visit last night",
+    "description": "Started feeling fatigued, joint pain, low-grade fever for the last 10 days. PCP wants to refer me to rheumatology. Is that covered without a referral or do I need one?",
+    "status": "Closed",
+    "priority": "Medium",
+    "origin": "Phone",
+    "reason": "Medical Question",
+    "type": "Clinical",
+    "created_at": "2026-05-10T16:21:00+00:00",
+    "closed_at": "2026-05-10T17:58:00+00:00",
+    "is_escalated": false,
+    "owner_name": "Devin Park",
+    "owner_changes": 0,
+    "sla_target_at": null,
+    "sla_breached": false,
+    "contact_name": "Eve Watson",
+    "account_name": "Johansson & Associates Group Plan",
+    "account_type": "Group Plan",
+    "comments": [
+      {
+        "author": "Sam Okafor",
+        "body": "Reached out to member, left voicemail. Will follow up tomorrow.",
+        "at": "2026-05-11T03:36:00+00:00"
+      },
+      {
+        "author": "Member",
+        "body": "Any update on this?",
+        "at": "2026-05-10T19:08:00+00:00"
+      }
+    ],
+    "history": []
+  },
+  {
+    "id": "500Syn0074",
+    "case_number": "00100074",
+    "subject": "Hospital tour - coverage questions",
+    "description": "I'm 30 weeks. If baby comes early and needs NICU, what does my plan cover. Trying to plan financially.",
+    "status": "Closed",
+    "priority": "Medium",
+    "origin": "Provider Portal",
+    "reason": "Maternity",
+    "type": "Clinical",
+    "created_at": "2026-05-10T10:09:00+00:00",
+    "closed_at": "2026-05-10T12:43:00+00:00",
+    "is_escalated": false,
+    "owner_name": "Skylar Vasquez",
+    "owner_changes": 0,
+    "sla_target_at": "2026-05-12T10:09:00+00:00",
+    "sla_breached": false,
+    "contact_name": "Quinn Gupta",
+    "account_name": "Liu & Associates Group Plan",
+    "account_type": "Group Plan",
+    "comments": [],
+    "history": []
+  },
+  {
+    "id": "500Syn0075",
+    "case_number": "00100075",
+    "subject": "Doctor never joined the call",
+    "description": "Telehealth video froze 5 times in 20 minutes. Provider gave up and asked me to come in. Now I'm being billed for both visits.",
+    "status": "Escalated",
+    "priority": "Low",
+    "origin": "Provider Portal",
+    "reason": "Telehealth",
+    "type": "Technical",
+    "created_at": "2026-05-10T16:46:00+00:00",
+    "closed_at": null,
+    "is_escalated": false,
+    "owner_name": "Skylar Vasquez",
+    "owner_changes": 0,
+    "sla_target_at": "2026-05-12T16:46:00+00:00",
+    "sla_breached": true,
+    "contact_name": "Willa Hassan",
+    "account_name": "Okonkwo Family",
+    "account_type": "Group Plan",
+    "comments": [],
+    "history": []
+  },
+  {
+    "id": "500Syn0076",
+    "case_number": "00100076",
+    "subject": "Steps challenge - results not synced",
+    "description": "Gym says you reimburse $35/month if I go 12+ times. Went 14 times in April, submitted the log, no reimbursement. Where is it.",
+    "status": "Waiting on Customer",
+    "priority": "Low",
+    "origin": "Phone",
+    "reason": "Wellness Program",
+    "type": "General Inquiry",
+    "created_at": "2026-05-10T00:41:00+00:00",
+    "closed_at": null,
+    "is_escalated": false,
+    "owner_name": "Casey Liu",
+    "owner_changes": 0,
+    "sla_target_at": "2026-05-10T08:41:00+00:00",
+    "sla_breached": true,
+    "contact_name": "Dante Patel",
+    "account_name": "Ibrahim Family",
+    "account_type": "Individual Plan",
+    "comments": [
+      {
+        "author": "Jordan Reyes",
+        "body": "Reached out to member, left voicemail. Will follow up tomorrow.",
+        "at": "2026-05-10T05:46:00+00:00"
+      }
+    ],
+    "history": []
+  },
+  {
+    "id": "500Syn0077",
+    "case_number": "00100077",
+    "subject": "Need state insurance commissioner contact",
+    "description": "First-level appeal denied. Want to escalate to external review. What's the process and timeline. Also planning to file with state insurance commissioner.",
+    "status": "New",
+    "priority": "High",
+    "origin": "Phone",
+    "reason": "Formal Appeal",
+    "type": "Appeals",
+    "created_at": "2026-05-10T23:26:00+00:00",
+    "closed_at": null,
+    "is_escalated": true,
+    "owner_name": "Sam Okafor",
+    "owner_changes": 0,
+    "sla_target_at": "2026-05-12T23:26:00+00:00",
+    "sla_breached": false,
+    "contact_name": "Nathan Zhao",
+    "account_name": "Patel Family",
+    "account_type": "Individual Plan",
+    "comments": [
+      {
+        "author": "Quincy Adams",
+        "body": "Documented details, opened ticket with backend team for resolution.",
+        "at": "2026-05-11T01:30:00+00:00"
+      },
+      {
+        "author": "Member",
+        "body": "I tried what you suggested, it didn't work.",
+        "at": "2026-05-11T07:08:00+00:00"
+      },
+      {
+        "author": "Casey Liu",
+        "body": "Walked member through portal steps. Issue resolved.",
+        "at": "2026-05-11T05:55:00+00:00"
+      }
+    ],
+    "history": [
+      {
+        "field": "IsEscalated",
+        "from": "false",
+        "to": "true",
+        "by": "Riley Chen",
+        "at": "2026-05-11T03:26:00+00:00"
+      }
+    ]
+  },
+  {
+    "id": "500Syn0078",
+    "case_number": "00100078",
+    "subject": "Out-of-network coverage abroad",
+    "description": "Trying to figure out where I am on my deductible. Portal shows last update was March, I've had visits since then.",
+    "status": "Working",
+    "priority": "Medium",
+    "origin": "Web",
+    "reason": "Benefit Inquiry",
+    "type": "General Inquiry",
+    "created_at": "2026-05-10T13:42:00+00:00",
+    "closed_at": null,
+    "is_escalated": false,
+    "owner_name": "Sam Okafor",
+    "owner_changes": 0,
+    "sla_target_at": null,
+    "sla_breached": false,
+    "contact_name": "Imani Young",
+    "account_name": "Johansson & Associates Group Plan",
+    "account_type": "Medicaid",
+    "comments": [
+      {
+        "author": "Skylar Vasquez",
+        "body": "Documented details, opened ticket with backend team for resolution.",
+        "at": "2026-05-11T01:21:00+00:00"
+      },
+      {
+        "author": "Member",
+        "body": "Could you escalate this please.",
+        "at": "2026-05-10T23:05:00+00:00"
+      }
+    ],
+    "history": []
+  },
+  {
+    "id": "500Syn0079",
+    "case_number": "00100079",
+    "subject": "Coverage for upcoming surgery",
+    "description": "Hearing aids - are they covered? I've heard yes and no from different reps. Definitive answer please.",
+    "status": "Escalated",
+    "priority": "Medium",
+    "origin": "Email",
+    "reason": "Benefit Inquiry",
+    "type": "General Inquiry",
+    "created_at": "2026-05-10T09:55:00+00:00",
+    "closed_at": null,
+    "is_escalated": false,
+    "owner_name": "Devin Park",
+    "owner_changes": 0,
+    "sla_target_at": "2026-05-12T09:55:00+00:00",
+    "sla_breached": true,
+    "contact_name": "Vincent Young",
+    "account_name": "Quinn Family",
+    "account_type": "Medicaid",
+    "comments": [
+      {
+        "author": "Riley Chen",
+        "body": "Documented details, opened ticket with backend team for resolution.",
+        "at": "2026-05-10T18:53:00+00:00"
+      }
+    ],
+    "history": []
+  },
+  {
+    "id": "500Syn0080",
+    "case_number": "00100080",
+    "subject": "MRI denied as 'not medically necessary'",
+    "description": "Spouse's outpatient surgery from January denied 'lack of documentation' even though we sent everything twice. Talking about filing a formal complaint.",
+    "status": "Waiting on Customer",
+    "priority": "High",
+    "origin": "Chat",
+    "reason": "Denied Claim",
+    "type": "Claims",
+    "created_at": "2026-05-10T13:49:00+00:00",
+    "closed_at": null,
+    "is_escalated": false,
+    "owner_name": "Jordan Reyes",
+    "owner_changes": 0,
+    "sla_target_at": "2026-05-12T13:49:00+00:00",
+    "sla_breached": false,
+    "contact_name": "Luis Zhao",
+    "account_name": "Watson Family",
+    "account_type": "Group Plan",
+    "comments": [
+      {
+        "author": "Taylor Brooks",
+        "body": "Reviewed claim history. Initial denial appears to be coding error. Submitted reprocessing request, ETA 5-7 business days.",
+        "at": "2026-05-11T00:10:00+00:00"
+      },
+      {
+        "author": "Member",
+        "body": "Spoke with my doctor's office, they have not heard back from you.",
+        "at": "2026-05-11T02:26:00+00:00"
+      },
+      {
+        "author": "Skylar Vasquez",
+        "body": "Confirmed information with member and updated record. Awaiting response from provider.",
+        "at": "2026-05-10T21:14:00+00:00"
+      }
+    ],
+    "history": []
+  },
+  {
+    "id": "500Syn0081",
+    "case_number": "00100081",
+    "subject": "Steps challenge - results not synced",
+    "description": "Had my annual physical March 22. Wellness portal still shows 'not completed.' Doctor's office confirmed they submitted everything. I want my $150 reward.",
+    "status": "Escalated",
+    "priority": "Low",
+    "origin": "Phone",
+    "reason": "Wellness Program",
+    "type": "General Inquiry",
+    "created_at": "2026-05-10T01:27:00+00:00",
+    "closed_at": null,
+    "is_escalated": false,
+    "owner_name": "Skylar Vasquez",
+    "owner_changes": 0,
+    "sla_target_at": "2026-05-10T05:27:00+00:00",
+    "sla_breached": false,
+    "contact_name": "Dante Kim",
+    "account_name": "Liu Family",
+    "account_type": "Individual Plan",
+    "comments": [],
+    "history": []
+  },
+  {
+    "id": "500Syn0082",
+    "case_number": "00100082",
+    "subject": "Need state insurance commissioner contact",
+    "description": "First-level appeal denied. Want to escalate to external review. What's the process and timeline. Also planning to file with state insurance commissioner.",
+    "status": "New",
+    "priority": "Critical",
+    "origin": "Provider Portal",
+    "reason": "Formal Appeal",
+    "type": "Appeals",
+    "created_at": "2026-05-10T11:46:00+00:00",
+    "closed_at": null,
+    "is_escalated": true,
+    "owner_name": "Taylor Brooks",
+    "owner_changes": 0,
+    "sla_target_at": "2026-05-12T11:46:00+00:00",
+    "sla_breached": false,
+    "contact_name": "Nathan Watson",
+    "account_name": "Vasquez Family",
+    "account_type": "Medicare Advantage",
+    "comments": [
+      {
+        "author": "Devin Park",
+        "body": "Pending response from internal team, ETA 24-48 hours.",
+        "at": "2026-05-10T18:16:00+00:00"
+      },
+      {
+        "author": "Member",
+        "body": "Could you escalate this please.",
+        "at": "2026-05-10T17:07:00+00:00"
+      }
+    ],
+    "history": [
+      {
+        "field": "IsEscalated",
+        "from": "false",
+        "to": "true",
+        "by": "Casey Liu",
+        "at": "2026-05-10T17:46:00+00:00"
+      }
+    ]
+  },
+  {
+    "id": "500Syn0083",
+    "case_number": "00100083",
+    "subject": "Coverage for second opinion on biopsy",
+    "description": "I had chest tightness Sunday night and went to urgent care. They did an EKG and sent me home, said to follow up with cardiology. What's covered for the cardiology visit and what about the stress test they recommended?",
+    "status": "Escalated",
+    "priority": "Medium",
+    "origin": "Web",
+    "reason": "Medical Question",
+    "type": "Clinical",
+    "created_at": "2026-05-10T07:35:00+00:00",
+    "closed_at": null,
+    "is_escalated": false,
+    "owner_name": "Avery Patel",
+    "owner_changes": 0,
+    "sla_target_at": null,
+    "sla_breached": false,
+    "contact_name": "Elena Johansson",
+    "account_name": "Okonkwo Family",
+    "account_type": "Family Plan",
+    "comments": [],
+    "history": []
+  },
+  {
+    "id": "500Syn0084",
+    "case_number": "00100084",
+    "subject": "Telehealth appointment for new symptoms",
+    "description": "Went to the ER yesterday for severe abdominal pain. They did a CT scan and ran labs. Just want to know what my out of pocket will be.",
+    "status": "Escalated",
+    "priority": "Medium",
+    "origin": "Provider Portal",
+    "reason": "Medical Question",
+    "type": "Clinical",
+    "created_at": "2026-05-10T21:41:00+00:00",
+    "closed_at": null,
+    "is_escalated": false,
+    "owner_name": "Skylar Vasquez",
+    "owner_changes": 0,
+    "sla_target_at": "2026-05-11T01:41:00+00:00",
+    "sla_breached": false,
+    "contact_name": "Eve Tanaka",
+    "account_name": "Martinez & Associates Group Plan",
+    "account_type": "Family Plan",
+    "comments": [
+      {
+        "author": "Taylor Brooks",
+        "body": "Reached out to member, left voicemail. Will follow up tomorrow.",
+        "at": "2026-05-11T09:40:00+00:00"
+      },
+      {
+        "author": "Member",
+        "body": "Still waiting. This is unacceptable.",
+        "at": "2026-05-10T22:53:00+00:00"
+      }
+    ],
+    "history": []
+  },
+  {
+    "id": "500Syn0085",
+    "case_number": "00100085",
+    "subject": "Pharmacy says no refills remaining but I should have 2",
+    "description": "I went to pick up my blood pressure medication today and the pharmacy said the insurance won't cover it. I've been on this for two years. Please fix this ASAP, I only have 3 days left.",
+    "status": "Closed",
+    "priority": "Medium",
+    "origin": "Email",
+    "reason": "Prescription",
+    "type": "Pharmacy",
+    "created_at": "2026-05-10T12:45:00+00:00",
+    "closed_at": "2026-05-10T16:41:00+00:00",
+    "is_escalated": false,
+    "owner_name": "Skylar Vasquez",
+    "owner_changes": 0,
+    "sla_target_at": null,
+    "sla_breached": false,
+    "contact_name": "Tomas Underwood",
+    "account_name": "Vasquez Family",
+    "account_type": "Family Plan",
+    "comments": [
+      {
+        "author": "Jordan Reyes",
+        "body": "Walked member through portal steps. Issue resolved.",
+        "at": "2026-05-10T15:10:00+00:00"
+      }
+    ],
+    "history": []
+  },
+  {
+    "id": "500Syn0086",
+    "case_number": "00100086",
+    "subject": "MFA not sending code",
+    "description": "Two factor app gives a code, portal says invalid. Tried 4 times. Clock on my phone is correct.",
+    "status": "Waiting on Customer",
+    "priority": "High",
+    "origin": "Provider Portal",
+    "reason": "Portal Access",
+    "type": "Technical",
+    "created_at": "2026-05-10T11:32:00+00:00",
+    "closed_at": null,
+    "is_escalated": false,
+    "owner_name": "Sam Okafor",
+    "owner_changes": 0,
+    "sla_target_at": "2026-05-11T11:32:00+00:00",
+    "sla_breached": false,
+    "contact_name": "Leon Diaz",
+    "account_name": "Rodriguez & Associates Group Plan",
+    "account_type": "Individual Plan",
+    "comments": [
+      {
+        "author": "Sam Okafor",
+        "body": "Walked member through portal steps. Issue resolved.",
+        "at": "2026-05-10T20:39:00+00:00"
+      },
+      {
+        "author": "Member",
+        "body": "I tried what you suggested, it didn't work.",
+        "at": "2026-05-10T18:21:00+00:00"
+      }
+    ],
+    "history": []
+  },
+  {
+    "id": "500Syn0087",
+    "case_number": "00100087",
+    "subject": "Provider directory is wrong",
+    "description": "Called the first 5 OB/GYNs in your directory. Three are not at the listed address anymore. Two are not taking new patients. I'm 26 weeks pregnant, this is urgent.",
+    "status": "Working",
+    "priority": "Low",
+    "origin": "Web",
+    "reason": "Provider Search",
+    "type": "General Inquiry",
+    "created_at": "2026-05-10T10:09:00+00:00",
+    "closed_at": null,
+    "is_escalated": false,
+    "owner_name": "Sam Okafor",
+    "owner_changes": 0,
+    "sla_target_at": null,
+    "sla_breached": false,
+    "contact_name": "Omar Bell",
+    "account_name": "Zhao Family",
+    "account_type": "Individual Plan",
+    "comments": [
+      {
+        "author": "Avery Patel",
+        "body": "Confirmed information with member and updated record. Awaiting response from provider.",
+        "at": "2026-05-10T15:34:00+00:00"
+      },
+      {
+        "author": "Member",
+        "body": "Any update on this?",
+        "at": "2026-05-10T12:39:00+00:00"
+      }
+    ],
+    "history": []
+  },
+  {
+    "id": "500Syn0088",
+    "case_number": "00100088",
+    "subject": "Telehealth appointment for new symptoms",
+    "description": "concerned about ongoing headaches. need neurologist. covered?",
+    "status": "Escalated",
+    "priority": "High",
+    "origin": "Chat",
+    "reason": "Medical Question",
+    "type": "Clinical",
+    "created_at": "2026-05-10T06:03:00+00:00",
+    "closed_at": null,
+    "is_escalated": false,
+    "owner_name": "Sam Okafor",
+    "owner_changes": 0,
+    "sla_target_at": null,
+    "sla_breached": false,
+    "contact_name": "Hiroshi Bell",
+    "account_name": "Quinn Family",
+    "account_type": "Medicare Advantage",
+    "comments": [
+      {
+        "author": "Quincy Adams",
+        "body": "Walked member through portal steps. Issue resolved.",
+        "at": "2026-05-10T08:41:00+00:00"
+      }
+    ],
+    "history": []
+  },
+  {
+    "id": "500Syn0089",
+    "case_number": "00100089",
+    "subject": "External review request",
+    "description": "Need the form for filing an external review of a coverage denial. Couldn't find it on the website.",
+    "status": "Escalated",
+    "priority": "Critical",
+    "origin": "Phone",
+    "reason": "Formal Appeal",
+    "type": "Appeals",
+    "created_at": "2026-05-10T18:55:00+00:00",
+    "closed_at": null,
+    "is_escalated": true,
+    "owner_name": "Riley Chen",
+    "owner_changes": 0,
+    "sla_target_at": null,
+    "sla_breached": false,
+    "contact_name": "Vincent Nguyen",
+    "account_name": "Okonkwo & Associates Group Plan",
+    "account_type": "Family Plan",
+    "comments": [
+      {
+        "author": "Casey Liu",
+        "body": "Documented details, opened ticket with backend team for resolution.",
+        "at": "2026-05-10T23:58:00+00:00"
+      },
+      {
+        "author": "Member",
+        "body": "I tried what you suggested, it didn't work.",
+        "at": "2026-05-10T23:05:00+00:00"
+      }
+    ],
+    "history": [
+      {
+        "field": "IsEscalated",
+        "from": "false",
+        "to": "true",
+        "by": "Sam Okafor",
+        "at": "2026-05-11T01:55:00+00:00"
+      }
+    ]
+  },
+  {
+    "id": "500Syn0090",
+    "case_number": "00100090",
+    "subject": "Possible reaction to new BP med",
+    "description": "Member reports severe GI upset and vomiting within 48 hours of starting metformin XR 500mg. Pharmacist suggested member contact insurer about prior authorization for brand-name equivalent. Member is concerned and wants to know next steps before continuing dose tonight.",
+    "status": "Resolved",
+    "priority": "High",
+    "origin": "Phone",
+    "reason": "Adverse Event",
+    "type": "Pharmacy",
+    "created_at": "2026-05-10T08:37:00+00:00",
+    "closed_at": "2026-05-10T17:34:00+00:00",
+    "is_escalated": true,
+    "owner_name": "Quincy Adams",
+    "owner_changes": 3,
+    "sla_target_at": null,
+    "sla_breached": false,
+    "contact_name": "Yusuf Fischer",
+    "account_name": "Liu Family",
+    "account_type": "Individual Plan",
+    "comments": [],
+    "history": [
+      {
+        "field": "Owner",
+        "from": "Sam Okafor",
+        "to": "Devin Park",
+        "by": "System",
+        "at": "2026-05-10T12:22:00+00:00"
+      },
+      {
+        "field": "Owner",
+        "from": "Devin Park",
+        "to": "Sam Okafor",
+        "by": "System",
+        "at": "2026-05-10T13:38:00+00:00"
+      },
+      {
+        "field": "Owner",
+        "from": "Devin Park",
+        "to": "Quincy Adams",
+        "by": "System",
+        "at": "2026-05-10T18:09:00+00:00"
+      }
+    ]
+  },
+  {
+    "id": "500Syn0091",
+    "case_number": "00100091",
+    "subject": "Provider directory is wrong",
+    "description": "Trying to verify if Dr. Patel at Lakeside Medical is in network for plan year 2026.",
+    "status": "Working",
+    "priority": "Low",
+    "origin": "Email",
+    "reason": "Provider Search",
+    "type": "General Inquiry",
+    "created_at": "2026-05-10T10:57:00+00:00",
+    "closed_at": null,
+    "is_escalated": false,
+    "owner_name": "Morgan Walsh",
+    "owner_changes": 0,
+    "sla_target_at": "2026-05-10T14:57:00+00:00",
+    "sla_breached": true,
+    "contact_name": "Devon Xu",
+    "account_name": "Zhao Family",
+    "account_type": "Group Plan",
+    "comments": [
+      {
+        "author": "Jordan Reyes",
+        "body": "Documented details, opened ticket with backend team for resolution.",
+        "at": "2026-05-10T15:43:00+00:00"
+      },
+      {
+        "author": "Member",
+        "body": "Could you escalate this please.",
+        "at": "2026-05-10T20:47:00+00:00"
+      }
+    ],
+    "history": []
+  },
+  {
+    "id": "500Syn0092",
+    "case_number": "00100092",
+    "subject": "Mail-order Rx hasn't arrived",
+    "description": "My mail-order prescription was supposed to arrive last Tuesday. Tracking says it's still in the warehouse. I'm out of pills.",
+    "status": "Working",
+    "priority": "High",
+    "origin": "Web",
+    "reason": "Prescription",
+    "type": "Pharmacy",
+    "created_at": "2026-05-10T03:23:00+00:00",
+    "closed_at": null,
+    "is_escalated": false,
+    "owner_name": "Devin Park",
+    "owner_changes": 0,
+    "sla_target_at": null,
+    "sla_breached": false,
+    "contact_name": "Mei Gupta",
+    "account_name": "Xu Family",
+    "account_type": "Group Plan",
+    "comments": [
+      {
+        "author": "Skylar Vasquez",
+        "body": "Documented details, opened ticket with backend team for resolution.",
+        "at": "2026-05-10T05:37:00+00:00"
+      },
+      {
+        "author": "Member",
+        "body": "Could you escalate this please.",
+        "at": "2026-05-10T10:10:00+00:00"
+      },
+      {
+        "author": "Sam Okafor",
+        "body": "Confirmed information with member and updated record. Awaiting response from provider.",
+        "at": "2026-05-10T14:00:00+00:00"
+      }
+    ],
+    "history": []
+  },
+  {
+    "id": "500Syn0093",
+    "case_number": "00100093",
+    "subject": "PA denial - appeal options?",
+    "description": "Need an MRI of the knee. PCP submitted PA last week, your portal says 'pending' with no detail. Surgeon's office is calling me daily asking for status.",
+    "status": "Closed",
+    "priority": "Medium",
+    "origin": "Phone",
+    "reason": "Prior Auth",
+    "type": "Authorization",
+    "created_at": "2026-05-10T06:50:00+00:00",
+    "closed_at": "2026-05-10T17:02:00+00:00",
+    "is_escalated": false,
+    "owner_name": "Avery Patel",
+    "owner_changes": 0,
+    "sla_target_at": null,
+    "sla_breached": false,
+    "contact_name": "Finn Quinn",
+    "account_name": "Fischer Family",
+    "account_type": "Family Plan",
+    "comments": [
+      {
+        "author": "Skylar Vasquez",
+        "body": "Reached out to member, left voicemail. Will follow up tomorrow.",
+        "at": "2026-05-10T19:44:00+00:00"
+      }
+    ],
+    "history": []
+  },
+  {
+    "id": "500Syn0094",
+    "case_number": "00100094",
+    "subject": "Locked out after 3 attempts",
+    "description": "Locked out after entering wrong password 3 times. Locked for 24 hours. I genuinely cannot remember the password and the reset link isn't working.",
+    "status": "Working",
+    "priority": "Medium",
+    "origin": "Phone",
+    "reason": "Portal Access",
+    "type": "Technical",
+    "created_at": "2026-05-10T19:39:00+00:00",
+    "closed_at": null,
+    "is_escalated": false,
+    "owner_name": "Riley Chen",
+    "owner_changes": 0,
+    "sla_target_at": null,
+    "sla_breached": false,
+    "contact_name": "Aisha Young",
+    "account_name": "Zhao Family",
+    "account_type": "Individual Plan",
+    "comments": [],
+    "history": []
+  },
+  {
+    "id": "500Syn0095",
+    "case_number": "00100095",
+    "subject": "Inpatient psychiatric coverage question",
+    "description": "I'm not doing well. My therapist is on leave and the practice hasn't returned my calls in two weeks. I need someone now. Please.",
+    "status": "New",
+    "priority": "High",
+    "origin": "Chat",
+    "reason": "Behavioral Health",
+    "type": "Clinical",
+    "created_at": "2026-05-10T22:27:00+00:00",
+    "closed_at": null,
+    "is_escalated": true,
+    "owner_name": "Quincy Adams",
+    "owner_changes": 0,
+    "sla_target_at": "2026-05-11T22:27:00+00:00",
+    "sla_breached": false,
+    "contact_name": "Jamal Okonkwo",
+    "account_name": "Patel Family",
+    "account_type": "Individual Plan",
+    "comments": [
+      {
+        "author": "Devin Park",
+        "body": "Confirmed information with member and updated record. Awaiting response from provider.",
+        "at": "2026-05-11T08:37:00+00:00"
+      },
+      {
+        "author": "Member",
+        "body": "Any update on this?",
+        "at": "2026-05-11T04:24:00+00:00"
+      }
+    ],
+    "history": [
+      {
+        "field": "IsEscalated",
+        "from": "false",
+        "to": "true",
+        "by": "Skylar Vasquez",
+        "at": "2026-05-11T05:27:00+00:00"
+      }
+    ]
+  },
+  {
+    "id": "500Syn0096",
+    "case_number": "00100096",
+    "subject": "Crisis line referral question",
+    "description": "I called the 24/7 nurse line last night about my anxiety, they were helpful but I need a real therapist not a chat bot. What's covered.",
+    "status": "New",
+    "priority": "Critical",
+    "origin": "Web",
+    "reason": "Behavioral Health",
+    "type": "Clinical",
+    "created_at": "2026-05-10T06:01:00+00:00",
+    "closed_at": null,
+    "is_escalated": true,
+    "owner_name": "Avery Patel",
+    "owner_changes": 3,
+    "sla_target_at": "2026-05-11T06:01:00+00:00",
+    "sla_breached": false,
+    "contact_name": "Mei Rodriguez",
+    "account_name": "Quinn & Associates Group Plan",
+    "account_type": "Group Plan",
+    "comments": [],
+    "history": [
+      {
+        "field": "Owner",
+        "from": "Sam Okafor",
+        "to": "Avery Patel",
+        "by": "System",
+        "at": "2026-05-10T09:48:00+00:00"
+      },
+      {
+        "field": "Owner",
+        "from": "Devin Park",
+        "to": "Avery Patel",
+        "by": "System",
+        "at": "2026-05-10T11:15:00+00:00"
+      },
+      {
+        "field": "IsEscalated",
+        "from": "false",
+        "to": "true",
+        "by": "Jordan Reyes",
+        "at": "2026-05-10T12:01:00+00:00"
+      },
+      {
+        "field": "Owner",
+        "from": "Avery Patel",
+        "to": "Devin Park",
+        "by": "System",
+        "at": "2026-05-10T16:32:00+00:00"
+      }
+    ]
+  },
+  {
+    "id": "500Syn0097",
+    "case_number": "00100097",
+    "subject": "Specialist referral - is auth needed?",
+    "description": "Got a referral to see a rheumatologist - does this need a PA or is it just an in-network specialist visit? Conflicting info on the website.",
+    "status": "Waiting on Customer",
+    "priority": "Medium",
+    "origin": "Web",
+    "reason": "Prior Auth",
+    "type": "Authorization",
+    "created_at": "2026-05-10T15:41:00+00:00",
+    "closed_at": null,
+    "is_escalated": true,
+    "owner_name": "Sam Okafor",
+    "owner_changes": 0,
+    "sla_target_at": null,
+    "sla_breached": false,
+    "contact_name": "Nathan Gupta",
+    "account_name": "Hassan Family",
+    "account_type": "Family Plan",
+    "comments": [
+      {
+        "author": "Sam Okafor",
+        "body": "Reached out to member, left voicemail. Will follow up tomorrow.",
+        "at": "2026-05-10T20:13:00+00:00"
+      },
+      {
+        "author": "Member",
+        "body": "Could you escalate this please.",
+        "at": "2026-05-10T17:25:00+00:00"
+      },
+      {
+        "author": "Casey Liu",
+        "body": "Pending response from internal team, ETA 24-48 hours.",
+        "at": "2026-05-10T20:25:00+00:00"
+      }
+    ],
+    "history": [
+      {
+        "field": "IsEscalated",
+        "from": "false",
+        "to": "true",
+        "by": "Quincy Adams",
+        "at": "2026-05-10T20:41:00+00:00"
+      }
+    ]
+  },
+  {
+    "id": "500Syn0098",
+    "case_number": "00100098",
+    "subject": "Doctor never joined the call",
+    "description": "Telehealth video froze 5 times in 20 minutes. Provider gave up and asked me to come in. Now I'm being billed for both visits.",
+    "status": "Closed",
+    "priority": "High",
+    "origin": "Phone",
+    "reason": "Telehealth",
+    "type": "Technical",
+    "created_at": "2026-05-10T13:11:00+00:00",
+    "closed_at": "2026-05-10T22:18:00+00:00",
+    "is_escalated": false,
+    "owner_name": "Morgan Walsh",
+    "owner_changes": 0,
+    "sla_target_at": "2026-05-10T17:11:00+00:00",
+    "sla_breached": false,
+    "contact_name": "Quinn Anderson",
+    "account_name": "Johansson & Associates Group Plan",
+    "account_type": "Medicare Advantage",
+    "comments": [
+      {
+        "author": "Riley Chen",
+        "body": "Documented details, opened ticket with backend team for resolution.",
+        "at": "2026-05-10T15:31:00+00:00"
+      },
+      {
+        "author": "Member",
+        "body": "Any update on this?",
+        "at": "2026-05-10T14:55:00+00:00"
+      }
+    ],
+    "history": []
+  },
+  {
+    "id": "500Syn0099",
+    "case_number": "00100099",
+    "subject": "Provider directory is wrong",
+    "description": "Trying to verify if Dr. Patel at Lakeside Medical is in network for plan year 2026.",
+    "status": "Closed",
+    "priority": "Low",
+    "origin": "Web",
+    "reason": "Provider Search",
+    "type": "General Inquiry",
+    "created_at": "2026-05-10T04:34:00+00:00",
+    "closed_at": "2026-05-10T07:27:00+00:00",
+    "is_escalated": false,
+    "owner_name": "Riley Chen",
+    "owner_changes": 3,
+    "sla_target_at": "2026-05-10T08:34:00+00:00",
+    "sla_breached": false,
+    "contact_name": "Beatrice Ibrahim",
+    "account_name": "Anderson Family",
+    "account_type": "Medicaid",
+    "comments": [
+      {
+        "author": "Jordan Reyes",
+        "body": "Reached out to member, left voicemail. Will follow up tomorrow.",
+        "at": "2026-05-10T06:37:00+00:00"
+      },
+      {
+        "author": "Member",
+        "body": "Any update on this?",
+        "at": "2026-05-10T11:53:00+00:00"
+      }
+    ],
+    "history": [
+      {
+        "field": "Owner",
+        "from": "Morgan Walsh",
+        "to": "Taylor Brooks",
+        "by": "System",
+        "at": "2026-05-10T09:57:00+00:00"
+      },
+      {
+        "field": "Owner",
+        "from": "Casey Liu",
+        "to": "Riley Chen",
+        "by": "System",
+        "at": "2026-05-10T14:07:00+00:00"
+      },
+      {
+        "field": "Owner",
+        "from": "Taylor Brooks",
+        "to": "Casey Liu",
+        "by": "System",
+        "at": "2026-05-10T15:16:00+00:00"
+      }
+    ]
+  },
+  {
+    "id": "500Syn0100",
+    "case_number": "00100100",
+    "subject": "Appeal denied - next steps",
+    "description": "Surgery was denied as 'experimental.' My doctor says it's standard of care. I'm filing a formal appeal and want the process and timeline.",
+    "status": "Waiting on Customer",
+    "priority": "High",
+    "origin": "Web",
+    "reason": "Formal Appeal",
+    "type": "Appeals",
+    "created_at": "2026-05-10T20:18:00+00:00",
+    "closed_at": null,
+    "is_escalated": true,
+    "owner_name": "Devin Park",
+    "owner_changes": 2,
+    "sla_target_at": "2026-05-12T20:18:00+00:00",
+    "sla_breached": false,
+    "contact_name": "Yusuf Liu",
+    "account_name": "Vasquez & Associates Group Plan",
+    "account_type": "Group Plan",
+    "comments": [],
+    "history": [
+      {
+        "field": "IsEscalated",
+        "from": "false",
+        "to": "true",
+        "by": "Quincy Adams",
+        "at": "2026-05-10T21:18:00+00:00"
+      },
+      {
+        "field": "Owner",
+        "from": "Quincy Adams",
+        "to": "Devin Park",
+        "by": "System",
+        "at": "2026-05-10T21:50:00+00:00"
+      },
+      {
+        "field": "Owner",
+        "from": "Jordan Reyes",
+        "to": "Quincy Adams",
+        "by": "System",
+        "at": "2026-05-11T06:21:00+00:00"
+      }
+    ]
+  },
+  {
+    "id": "500Syn0101",
+    "case_number": "00100101",
+    "subject": "Need replacement ID card",
+    "description": "id card never arrived. moved 6 weeks ago, address updated.",
+    "status": "Escalated",
+    "priority": "Low",
+    "origin": "Email",
+    "reason": "Member ID",
+    "type": "General Inquiry",
+    "created_at": "2026-05-10T18:52:00+00:00",
+    "closed_at": null,
+    "is_escalated": false,
+    "owner_name": "Sam Okafor",
+    "owner_changes": 0,
+    "sla_target_at": "2026-05-10T22:52:00+00:00",
+    "sla_breached": false,
+    "contact_name": "Nathan Bell",
+    "account_name": "Tanaka & Associates Group Plan",
+    "account_type": "Family Plan",
+    "comments": [
+      {
+        "author": "Riley Chen",
+        "body": "Reached out to member, left voicemail. Will follow up tomorrow.",
+        "at": "2026-05-10T23:37:00+00:00"
+      },
+      {
+        "author": "Member",
+        "body": "I tried what you suggested, it didn't work.",
+        "at": "2026-05-11T07:06:00+00:00"
+      },
+      {
+        "author": "Morgan Walsh",
+        "body": "Pending response from internal team, ETA 24-48 hours.",
+        "at": "2026-05-11T00:24:00+00:00"
+      }
+    ],
+    "history": []
+  },
+  {
+    "id": "500Syn0102",
+    "case_number": "00100102",
+    "subject": "Hospital tour - coverage questions",
+    "description": "Touring two hospitals for delivery. Hospital A is in network, hospital B has the better NICU. Coverage difference if I deliver at B?",
+    "status": "Waiting on Customer",
+    "priority": "Medium",
+    "origin": "Chat",
+    "reason": "Maternity",
+    "type": "Clinical",
+    "created_at": "2026-05-10T20:00:00+00:00",
+    "closed_at": null,
+    "is_escalated": false,
+    "owner_name": "Sam Okafor",
+    "owner_changes": 0,
+    "sla_target_at": null,
+    "sla_breached": false,
+    "contact_name": "Jamal Johansson",
+    "account_name": "Johansson Family",
+    "account_type": "Medicare Advantage",
+    "comments": [
+      {
+        "author": "Riley Chen",
+        "body": "Walked member through portal steps. Issue resolved.",
+        "at": "2026-05-11T04:04:00+00:00"
+      }
+    ],
+    "history": []
+  },
+  {
+    "id": "500Syn0103",
+    "case_number": "00100103",
+    "subject": "Inpatient psychiatric coverage question",
+    "description": "I called the 24/7 nurse line last night about my anxiety, they were helpful but I need a real therapist not a chat bot. What's covered.",
+    "status": "Working",
+    "priority": "Critical",
+    "origin": "Provider Portal",
+    "reason": "Behavioral Health",
+    "type": "Clinical",
+    "created_at": "2026-05-10T09:08:00+00:00",
+    "closed_at": null,
+    "is_escalated": true,
+    "owner_name": "Jordan Reyes",
+    "owner_changes": 2,
+    "sla_target_at": "2026-05-11T09:08:00+00:00",
+    "sla_breached": false,
+    "contact_name": "Jonas Okonkwo",
+    "account_name": "Patel Family",
+    "account_type": "Group Plan",
+    "comments": [
+      {
+        "author": "Quincy Adams",
+        "body": "Pending response from internal team, ETA 24-48 hours.",
+        "at": "2026-05-10T10:33:00+00:00"
+      },
+      {
+        "author": "Member",
+        "body": "Thank you for the call back, will await the email.",
+        "at": "2026-05-10T22:02:00+00:00"
+      },
+      {
+        "author": "Devin Park",
+        "body": "Pending response from internal team, ETA 24-48 hours.",
+        "at": "2026-05-10T16:16:00+00:00"
+      }
+    ],
+    "history": [
+      {
+        "field": "Owner",
+        "from": "Skylar Vasquez",
+        "to": "Quincy Adams",
+        "by": "System",
+        "at": "2026-05-10T10:20:00+00:00"
+      },
+      {
+        "field": "IsEscalated",
+        "from": "false",
+        "to": "true",
+        "by": "Casey Liu",
+        "at": "2026-05-10T11:08:00+00:00"
+      },
+      {
+        "field": "Owner",
+        "from": "Quincy Adams",
+        "to": "Jordan Reyes",
+        "by": "System",
+        "at": "2026-05-10T20:27:00+00:00"
+      }
+    ]
+  },
+  {
+    "id": "500Syn0104",
+    "case_number": "00100104",
+    "subject": "Annual exam completed, no reward credited",
+    "description": "Had my annual physical March 22. Wellness portal still shows 'not completed.' Doctor's office confirmed they submitted everything. I want my $150 reward.",
+    "status": "Escalated",
+    "priority": "Low",
+    "origin": "Provider Portal",
+    "reason": "Wellness Program",
+    "type": "General Inquiry",
+    "created_at": "2026-05-10T01:07:00+00:00",
+    "closed_at": null,
+    "is_escalated": false,
+    "owner_name": "Skylar Vasquez",
+    "owner_changes": 0,
+    "sla_target_at": null,
+    "sla_breached": false,
+    "contact_name": "Aisha Hassan",
+    "account_name": "Gupta & Associates Group Plan",
+    "account_type": "Group Plan",
+    "comments": [
+      {
+        "author": "Taylor Brooks",
+        "body": "Walked member through portal steps. Issue resolved.",
+        "at": "2026-05-10T09:46:00+00:00"
+      }
+    ],
+    "history": []
+  },
+  {
+    "id": "500Syn0105",
+    "case_number": "00100105",
+    "subject": "Eligible expenses for HSA",
+    "description": "Submitted receipt for prescription glasses for FSA reimbursement. Denied as 'ineligible.' Glasses are absolutely eligible. What's the deal.",
+    "status": "Escalated",
+    "priority": "High",
+    "origin": "Web",
+    "reason": "FSA HSA",
+    "type": "Benefits",
+    "created_at": "2026-05-10T08:45:00+00:00",
+    "closed_at": null,
+    "is_escalated": false,
+    "owner_name": "Avery Patel",
+    "owner_changes": 0,
+    "sla_target_at": null,
+    "sla_breached": false,
+    "contact_name": "Nadia Edwards",
+    "account_name": "Gupta Family",
+    "account_type": "Medicare Advantage",
+    "comments": [
+      {
+        "author": "Morgan Walsh",
+        "body": "Reached out to member, left voicemail. Will follow up tomorrow.",
+        "at": "2026-05-10T17:20:00+00:00"
+      },
+      {
+        "author": "Member",
+        "body": "Could you escalate this please.",
+        "at": "2026-05-10T14:17:00+00:00"
+      }
+    ],
+    "history": []
+  },
+  {
+    "id": "500Syn0106",
+    "case_number": "00100106",
+    "subject": "Premium increase not explained",
+    "description": "Canceled coverage effective March 1 (job change). Premium for April still charged. Need refund.",
+    "status": "Resolved",
+    "priority": "Medium",
+    "origin": "Web",
+    "reason": "Premium Payment",
+    "type": "Billing",
+    "created_at": "2026-05-10T04:05:00+00:00",
+    "closed_at": "2026-05-10T09:12:00+00:00",
+    "is_escalated": true,
+    "owner_name": "Devin Park",
+    "owner_changes": 0,
+    "sla_target_at": "2026-05-10T08:05:00+00:00",
+    "sla_breached": false,
+    "contact_name": "Brandon Chen",
+    "account_name": "Anderson Family",
+    "account_type": "Individual Plan",
+    "comments": [
+      {
+        "author": "Jordan Reyes",
+        "body": "Confirmed information with member and updated record. Awaiting response from provider.",
+        "at": "2026-05-10T11:58:00+00:00"
+      },
+      {
+        "author": "Member",
+        "body": "Thank you for the call back, will await the email.",
+        "at": "2026-05-10T15:57:00+00:00"
+      }
+    ],
+    "history": []
+  },
+  {
+    "id": "500Syn0107",
+    "case_number": "00100107",
+    "subject": "Inpatient psychiatric coverage question",
+    "description": "My son was admitted to inpatient psych at Community Hospital last night after a suicide attempt. Trying to understand what coverage looks like and what we need to do for discharge planning.",
+    "status": "Working",
+    "priority": "Medium",
+    "origin": "Email",
+    "reason": "Behavioral Health",
+    "type": "Clinical",
+    "created_at": "2026-05-10T17:37:00+00:00",
+    "closed_at": null,
+    "is_escalated": true,
+    "owner_name": "Devin Park",
+    "owner_changes": 0,
+    "sla_target_at": "2026-05-10T21:37:00+00:00",
+    "sla_breached": false,
+    "contact_name": "Luis Hassan",
+    "account_name": "Fischer & Associates Group Plan",
+    "account_type": "Medicare Advantage",
+    "comments": [
+      {
+        "author": "Avery Patel",
+        "body": "Walked member through portal steps. Issue resolved.",
+        "at": "2026-05-10T21:38:00+00:00"
+      },
+      {
+        "author": "Member",
+        "body": "I tried what you suggested, it didn't work.",
+        "at": "2026-05-10T19:34:00+00:00"
+      }
+    ],
+    "history": [
+      {
+        "field": "IsEscalated",
+        "from": "false",
+        "to": "true",
+        "by": "Morgan Walsh",
+        "at": "2026-05-10T19:37:00+00:00"
+      }
+    ]
+  },
+  {
+    "id": "500Syn0108",
+    "case_number": "00100108",
+    "subject": "Doctor never joined the call",
+    "description": "Telehealth video froze 5 times in 20 minutes. Provider gave up and asked me to come in. Now I'm being billed for both visits.",
+    "status": "Closed",
+    "priority": "Medium",
+    "origin": "Provider Portal",
+    "reason": "Telehealth",
+    "type": "Technical",
+    "created_at": "2026-05-10T20:50:00+00:00",
+    "closed_at": "2026-05-10T22:37:00+00:00",
+    "is_escalated": false,
+    "owner_name": "Skylar Vasquez",
+    "owner_changes": 0,
+    "sla_target_at": null,
+    "sla_breached": false,
+    "contact_name": "Imani Quinn",
+    "account_name": "Xu Family",
+    "account_type": "Family Plan",
+    "comments": [],
+    "history": []
+  },
+  {
+    "id": "500Syn0109",
+    "case_number": "00100109",
+    "subject": "Need refill on lisinopril",
+    "description": "refill stuck. pharm says contact insurance. been on this med 4 yrs.",
+    "status": "Working",
+    "priority": "Medium",
+    "origin": "Email",
+    "reason": "Prescription",
+    "type": "Pharmacy",
+    "created_at": "2026-05-10T19:54:00+00:00",
+    "closed_at": null,
+    "is_escalated": false,
+    "owner_name": "Skylar Vasquez",
+    "owner_changes": 0,
+    "sla_target_at": null,
+    "sla_breached": false,
+    "contact_name": "Maya Zhao",
+    "account_name": "Singh Family",
+    "account_type": "Group Plan",
+    "comments": [
+      {
+        "author": "Casey Liu",
+        "body": "Walked member through portal steps. Issue resolved.",
+        "at": "2026-05-10T22:23:00+00:00"
+      },
+      {
+        "author": "Member",
+        "body": "Spoke with my doctor's office, they have not heard back from you.",
+        "at": "2026-05-11T01:01:00+00:00"
+      }
+    ],
+    "history": []
+  },
+  {
+    "id": "500Syn0110",
+    "case_number": "00100110",
+    "subject": "Pharmacy says no refills remaining but I should have 2",
+    "description": "Trying to refill my statin, system says 'PA required' but my doctor already submitted that paperwork in February. What is going on.",
+    "status": "Working",
+    "priority": "Medium",
+    "origin": "Web",
+    "reason": "Prescription",
+    "type": "Pharmacy",
+    "created_at": "2026-05-10T11:21:00+00:00",
+    "closed_at": null,
+    "is_escalated": false,
+    "owner_name": "Avery Patel",
+    "owner_changes": 1,
+    "sla_target_at": null,
+    "sla_breached": false,
+    "contact_name": "Nadia Xu",
+    "account_name": "Liu Family",
+    "account_type": "Group Plan",
+    "comments": [],
+    "history": [
+      {
+        "field": "Owner",
+        "from": "Casey Liu",
+        "to": "Avery Patel",
+        "by": "System",
+        "at": "2026-05-10T18:18:00+00:00"
+      }
+    ]
+  },
+  {
+    "id": "500Syn0111",
+    "case_number": "00100111",
+    "subject": "Coverage for second opinion on biopsy",
+    "description": "Went to the ER yesterday for severe abdominal pain. They did a CT scan and ran labs. Just want to know what my out of pocket will be.",
+    "status": "Waiting on Customer",
+    "priority": "High",
+    "origin": "Email",
+    "reason": "Medical Question",
+    "type": "Clinical",
+    "created_at": "2026-05-10T01:34:00+00:00",
+    "closed_at": null,
+    "is_escalated": false,
+    "owner_name": "Riley Chen",
+    "owner_changes": 0,
+    "sla_target_at": null,
+    "sla_breached": false,
+    "contact_name": "Brandon Xu",
+    "account_name": "Ibrahim Family",
+    "account_type": "Medicare Advantage",
+    "comments": [],
+    "history": []
+  },
+  {
+    "id": "500Syn0112",
+    "case_number": "00100112",
+    "subject": "Spouse needs separate ID card",
+    "description": "Spouse needs her own physical card, she keeps getting turned away at the pharmacy because they want to see her card not mine.",
+    "status": "Working",
+    "priority": "Medium",
+    "origin": "Provider Portal",
+    "reason": "Member ID",
+    "type": "General Inquiry",
+    "created_at": "2026-05-10T12:39:00+00:00",
+    "closed_at": null,
+    "is_escalated": false,
+    "owner_name": "Devin Park",
+    "owner_changes": 0,
+    "sla_target_at": "2026-05-10T16:39:00+00:00",
+    "sla_breached": true,
+    "contact_name": "Brandon Underwood",
+    "account_name": "Anderson Family",
+    "account_type": "Family Plan",
+    "comments": [
+      {
+        "author": "Casey Liu",
+        "body": "Walked member through portal steps. Issue resolved.",
+        "at": "2026-05-10T18:48:00+00:00"
+      }
+    ],
+    "history": []
+  },
+  {
+    "id": "500Syn0113",
+    "case_number": "00100113",
+    "subject": "Coordination of benefits update needed",
+    "description": "Recently turned 65, now have Medicare Part A and B in addition to your plan. How does coordination work and which is primary.",
+    "status": "Waiting on Customer",
+    "priority": "Medium",
+    "origin": "Provider Portal",
+    "reason": "COB",
+    "type": "Claims",
+    "created_at": "2026-05-10T12:13:00+00:00",
+    "closed_at": null,
+    "is_escalated": false,
+    "owner_name": "Taylor Brooks",
+    "owner_changes": 0,
+    "sla_target_at": null,
+    "sla_breached": false,
+    "contact_name": "Eve Vasquez",
+    "account_name": "Zhao & Associates Group Plan",
+    "account_type": "Family Plan",
+    "comments": [],
+    "history": []
+  },
+  {
+    "id": "500Syn0114",
+    "case_number": "00100114",
+    "subject": "Coverage for high-risk pregnancy specialist",
+    "description": "I'm 30 weeks. If baby comes early and needs NICU, what does my plan cover. Trying to plan financially.",
+    "status": "Resolved",
+    "priority": "Medium",
+    "origin": "Phone",
+    "reason": "Maternity",
+    "type": "Clinical",
+    "created_at": "2026-05-10T15:36:00+00:00",
+    "closed_at": "2026-05-10T23:42:00+00:00",
+    "is_escalated": false,
+    "owner_name": "Quincy Adams",
+    "owner_changes": 0,
+    "sla_target_at": null,
+    "sla_breached": false,
+    "contact_name": "Sofia Bell",
+    "account_name": "Kim Family",
+    "account_type": "Family Plan",
+    "comments": [],
+    "history": []
+  },
+  {
+    "id": "500Syn0115",
+    "case_number": "00100115",
+    "subject": "Where is my prior auth for shoulder surgery",
+    "description": "Surgeon submitted PA on April 22 for an arthroscopy. Surgery is scheduled for May 18. Still no answer. The PA team's voicemail says 7-10 business days, we're at 17.",
+    "status": "Resolved",
+    "priority": "High",
+    "origin": "Email",
+    "reason": "Prior Auth",
+    "type": "Authorization",
+    "created_at": "2026-05-10T09:48:00+00:00",
+    "closed_at": "2026-05-10T13:49:00+00:00",
+    "is_escalated": true,
+    "owner_name": "Casey Liu",
+    "owner_changes": 0,
+    "sla_target_at": "2026-05-10T17:48:00+00:00",
+    "sla_breached": false,
+    "contact_name": "Finn Okonkwo",
+    "account_name": "Vasquez Family",
+    "account_type": "Medicare Advantage",
+    "comments": [
+      {
+        "author": "Sam Okafor",
+        "body": "Reached out to member, left voicemail. Will follow up tomorrow.",
+        "at": "2026-05-10T12:33:00+00:00"
+      },
+      {
+        "author": "Member",
+        "body": "Spoke with my doctor's office, they have not heard back from you.",
+        "at": "2026-05-10T10:49:00+00:00"
+      }
+    ],
+    "history": []
+  },
+  {
+    "id": "500Syn0116",
+    "case_number": "00100116",
+    "subject": "Lab work denied, billed in error",
+    "description": "Spouse's outpatient surgery from January denied 'lack of documentation' even though we sent everything twice. Talking about filing a formal complaint.",
+    "status": "Escalated",
+    "priority": "High",
+    "origin": "Phone",
+    "reason": "Denied Claim",
+    "type": "Claims",
+    "created_at": "2026-05-10T10:41:00+00:00",
+    "closed_at": null,
+    "is_escalated": false,
+    "owner_name": "Skylar Vasquez",
+    "owner_changes": 0,
+    "sla_target_at": "2026-05-12T10:41:00+00:00",
+    "sla_breached": false,
+    "contact_name": "Nathan Hassan",
+    "account_name": "Ibrahim Family",
+    "account_type": "Group Plan",
+    "comments": [
+      {
+        "author": "Devin Park",
+        "body": "Confirmed information with member and updated record. Awaiting response from provider.",
+        "at": "2026-05-10T14:05:00+00:00"
+      },
+      {
+        "author": "Member",
+        "body": "Spoke with my doctor's office, they have not heard back from you.",
+        "at": "2026-05-10T13:49:00+00:00"
+      }
+    ],
+    "history": []
+  },
+  {
+    "id": "500Syn0117",
+    "case_number": "00100117",
+    "subject": "Question about coverage for chest pain workup",
+    "description": "concerned about ongoing headaches. need neurologist. covered?",
+    "status": "Resolved",
+    "priority": "Medium",
+    "origin": "Phone",
+    "reason": "Medical Question",
+    "type": "Clinical",
+    "created_at": "2026-05-10T13:57:00+00:00",
+    "closed_at": "2026-05-10T20:07:00+00:00",
+    "is_escalated": false,
+    "owner_name": "Avery Patel",
+    "owner_changes": 0,
+    "sla_target_at": null,
+    "sla_breached": false,
+    "contact_name": "Leon Underwood",
+    "account_name": "Kim & Associates Group Plan",
+    "account_type": "Medicare Advantage",
+    "comments": [],
+    "history": []
+  },
+  {
+    "id": "500Syn0118",
+    "case_number": "00100118",
+    "subject": "Charged for telehealth that didn't happen",
+    "description": "Telehealth video froze 5 times in 20 minutes. Provider gave up and asked me to come in. Now I'm being billed for both visits.",
+    "status": "Closed",
+    "priority": "Low",
+    "origin": "Phone",
+    "reason": "Telehealth",
+    "type": "Technical",
+    "created_at": "2026-05-10T09:07:00+00:00",
+    "closed_at": "2026-05-10T17:31:00+00:00",
+    "is_escalated": false,
+    "owner_name": "Devin Park",
+    "owner_changes": 0,
+    "sla_target_at": null,
+    "sla_breached": false,
+    "contact_name": "Priya Liu",
+    "account_name": "Johansson Family",
+    "account_type": "Family Plan",
+    "comments": [
+      {
+        "author": "Taylor Brooks",
+        "body": "Walked member through portal steps. Issue resolved.",
+        "at": "2026-05-10T20:31:00+00:00"
+      },
+      {
+        "author": "Member",
+        "body": "I tried what you suggested, it didn't work.",
+        "at": "2026-05-10T13:42:00+00:00"
+      }
+    ],
+    "history": []
+  },
+  {
+    "id": "500Syn0119",
+    "case_number": "00100119",
+    "subject": "Need in-network OB/GYN",
+    "description": "Called the first 5 OB/GYNs in your directory. Three are not at the listed address anymore. Two are not taking new patients. I'm 26 weeks pregnant, this is urgent.",
+    "status": "Closed",
+    "priority": "Medium",
+    "origin": "Web",
+    "reason": "Provider Search",
+    "type": "General Inquiry",
+    "created_at": "2026-05-10T06:01:00+00:00",
+    "closed_at": "2026-05-10T09:09:00+00:00",
+    "is_escalated": false,
+    "owner_name": "Quincy Adams",
+    "owner_changes": 0,
+    "sla_target_at": null,
+    "sla_breached": false,
+    "contact_name": "Zoe Bell",
+    "account_name": "Kim Family",
+    "account_type": "Group Plan",
+    "comments": [],
+    "history": []
+  },
+  {
+    "id": "500Syn0120",
+    "case_number": "00100120",
+    "subject": "HSA debit card declined at dentist",
+    "description": "FSA had $400 left at end of year. Plan says rollover up to $610. Where did my money go.",
+    "status": "New",
+    "priority": "Medium",
+    "origin": "Email",
+    "reason": "FSA HSA",
+    "type": "Benefits",
+    "created_at": "2026-05-10T03:30:00+00:00",
+    "closed_at": null,
+    "is_escalated": true,
+    "owner_name": "Jordan Reyes",
+    "owner_changes": 0,
+    "sla_target_at": "2026-05-12T03:30:00+00:00",
+    "sla_breached": false,
+    "contact_name": "Luis Diaz",
+    "account_name": "Liu Family",
+    "account_type": "Group Plan",
+    "comments": [
+      {
+        "author": "Morgan Walsh",
+        "body": "Reached out to member, left voicemail. Will follow up tomorrow.",
+        "at": "2026-05-10T08:34:00+00:00"
+      }
+    ],
+    "history": [
+      {
+        "field": "IsEscalated",
+        "from": "false",
+        "to": "true",
+        "by": "Casey Liu",
+        "at": "2026-05-10T07:30:00+00:00"
+      }
+    ]
+  },
+  {
+    "id": "500Syn0121",
+    "case_number": "00100121",
+    "subject": "Coverage for high-risk pregnancy specialist",
+    "description": "Doctor recommended NIPT (non-invasive prenatal testing). Insurance representative said it's covered if 'medically indicated' - I'm 36 weeks and 38 years old. Should be covered, right?",
+    "status": "Waiting on Customer",
+    "priority": "Medium",
+    "origin": "Web",
+    "reason": "Maternity",
+    "type": "Clinical",
+    "created_at": "2026-05-10T04:43:00+00:00",
+    "closed_at": null,
+    "is_escalated": false,
+    "owner_name": "Taylor Brooks",
+    "owner_changes": 0,
+    "sla_target_at": null,
+    "sla_breached": false,
+    "contact_name": "Grace Edwards",
+    "account_name": "Vasquez & Associates Group Plan",
+    "account_type": "Medicaid",
+    "comments": [
+      {
+        "author": "Casey Liu",
+        "body": "Confirmed information with member and updated record. Awaiting response from provider.",
+        "at": "2026-05-10T06:14:00+00:00"
+      },
+      {
+        "author": "Member",
+        "body": "Could you escalate this please.",
+        "at": "2026-05-10T17:37:00+00:00"
+      }
+    ],
+    "history": []
+  },
+  {
+    "id": "500Syn0122",
+    "case_number": "00100122",
+    "subject": "Telehealth not covered as expected",
+    "description": "Had a telehealth appointment scheduled for 10am. Joined the link, waiting room for 45 minutes. Provider never showed. Now I'm being told I'll be charged a no-show fee. This is ridiculous.",
+    "status": "New",
+    "priority": "Medium",
+    "origin": "Provider Portal",
+    "reason": "Telehealth",
+    "type": "Technical",
+    "created_at": "2026-05-10T02:19:00+00:00",
+    "closed_at": null,
+    "is_escalated": false,
+    "owner_name": "Casey Liu",
+    "owner_changes": 0,
+    "sla_target_at": null,
+    "sla_breached": false,
+    "contact_name": "Aisha Chen",
+    "account_name": "Vasquez Family",
+    "account_type": "Medicaid",
+    "comments": [
+      {
+        "author": "Devin Park",
+        "body": "Reached out to member, left voicemail. Will follow up tomorrow.",
+        "at": "2026-05-10T06:07:00+00:00"
+      }
+    ],
+    "history": []
+  },
+  {
+    "id": "500Syn0123",
+    "case_number": "00100123",
+    "subject": "Removing ex-spouse from plan",
+    "description": "Divorce finalized. Need ex-spouse removed from policy and her name off all the records. Effective date should be April 15.",
+    "status": "New",
+    "priority": "High",
+    "origin": "Provider Portal",
+    "reason": "Enrollment Change",
+    "type": "Enrollment",
+    "created_at": "2026-05-10T18:40:00+00:00",
+    "closed_at": null,
+    "is_escalated": false,
+    "owner_name": "Riley Chen",
+    "owner_changes": 0,
+    "sla_target_at": "2026-05-11T02:40:00+00:00",
+    "sla_breached": false,
+    "contact_name": "Beatrice Rodriguez",
+    "account_name": "Singh & Associates Group Plan",
+    "account_type": "Medicare Advantage",
+    "comments": [
+      {
+        "author": "Sam Okafor",
+        "body": "Reached out to member, left voicemail. Will follow up tomorrow.",
+        "at": "2026-05-10T21:41:00+00:00"
+      }
+    ],
+    "history": []
+  },
+  {
+    "id": "500Syn0124",
+    "case_number": "00100124",
+    "subject": "Lost wallet, urgent ID card",
+    "description": "App shows my old plan info, not the new one that started May 1. Tried logging out and back in. Still wrong.",
+    "status": "Waiting on Customer",
+    "priority": "Low",
+    "origin": "Chat",
+    "reason": "Member ID",
+    "type": "General Inquiry",
+    "created_at": "2026-05-10T02:07:00+00:00",
+    "closed_at": null,
+    "is_escalated": false,
+    "owner_name": "Quincy Adams",
+    "owner_changes": 0,
+    "sla_target_at": "2026-05-10T06:07:00+00:00",
+    "sla_breached": false,
+    "contact_name": "Sofia Tanaka",
+    "account_name": "Anderson Family",
+    "account_type": "Medicaid",
+    "comments": [
+      {
+        "author": "Quincy Adams",
+        "body": "Pending response from internal team, ETA 24-48 hours.",
+        "at": "2026-05-10T04:35:00+00:00"
+      },
+      {
+        "author": "Member",
+        "body": "Still waiting. This is unacceptable.",
+        "at": "2026-05-10T13:26:00+00:00"
+      },
+      {
+        "author": "Sam Okafor",
+        "body": "Walked member through portal steps. Issue resolved.",
+        "at": "2026-05-10T08:33:00+00:00"
+      }
+    ],
+    "history": []
+  },
+  {
+    "id": "500Syn0125",
+    "case_number": "00100125",
+    "subject": "Digital ID not loading in app",
+    "description": "Spouse needs her own physical card, she keeps getting turned away at the pharmacy because they want to see her card not mine.",
+    "status": "Closed",
+    "priority": "Medium",
+    "origin": "Chat",
+    "reason": "Member ID",
+    "type": "General Inquiry",
+    "created_at": "2026-05-10T04:59:00+00:00",
+    "closed_at": "2026-05-10T11:16:00+00:00",
+    "is_escalated": false,
+    "owner_name": "Casey Liu",
+    "owner_changes": 0,
+    "sla_target_at": null,
+    "sla_breached": false,
+    "contact_name": "Grace Diaz",
+    "account_name": "Johansson & Associates Group Plan",
+    "account_type": "Family Plan",
+    "comments": [
+      {
+        "author": "Skylar Vasquez",
+        "body": "Confirmed information with member and updated record. Awaiting response from provider.",
+        "at": "2026-05-10T09:45:00+00:00"
+      },
+      {
+        "author": "Member",
+        "body": "I tried what you suggested, it didn't work.",
+        "at": "2026-05-10T11:32:00+00:00"
+      }
+    ],
+    "history": []
+  },
+  {
+    "id": "500Syn0126",
+    "case_number": "00100126",
+    "subject": "Auto-pay charged wrong card",
+    "description": "My premium got pulled from my old bank account that I closed two months ago. I updated the card in the portal weeks ago. Why did this happen and when will I get the NSF fee back.",
+    "status": "Resolved",
+    "priority": "Low",
+    "origin": "Phone",
+    "reason": "Premium Payment",
+    "type": "Billing",
+    "created_at": "2026-05-10T09:33:00+00:00",
+    "closed_at": "2026-05-10T14:13:00+00:00",
+    "is_escalated": false,
+    "owner_name": "Quincy Adams",
+    "owner_changes": 0,
+    "sla_target_at": "2026-05-11T09:33:00+00:00",
+    "sla_breached": false,
+    "contact_name": "Devon Singh",
+    "account_name": "Hassan Family",
+    "account_type": "Medicaid",
+    "comments": [
+      {
+        "author": "Skylar Vasquez",
+        "body": "Confirmed information with member and updated record. Awaiting response from provider.",
+        "at": "2026-05-10T13:49:00+00:00"
+      }
+    ],
+    "history": []
+  },
+  {
+    "id": "500Syn0127",
+    "case_number": "00100127",
+    "subject": "Charged for telehealth that didn't happen",
+    "description": "Telehealth video froze 5 times in 20 minutes. Provider gave up and asked me to come in. Now I'm being billed for both visits.",
+    "status": "Resolved",
+    "priority": "Medium",
+    "origin": "Web",
+    "reason": "Telehealth",
+    "type": "Technical",
+    "created_at": "2026-05-10T01:53:00+00:00",
+    "closed_at": "2026-05-10T12:12:00+00:00",
+    "is_escalated": false,
+    "owner_name": "Avery Patel",
+    "owner_changes": 0,
+    "sla_target_at": "2026-05-10T05:53:00+00:00",
+    "sla_breached": false,
+    "contact_name": "Maya Nguyen",
+    "account_name": "Johansson Family",
+    "account_type": "Individual Plan",
+    "comments": [
+      {
+        "author": "Skylar Vasquez",
+        "body": "Pending response from internal team, ETA 24-48 hours.",
+        "at": "2026-05-10T04:12:00+00:00"
+      },
+      {
+        "author": "Member",
+        "body": "Thank you for the call back, will await the email.",
+        "at": "2026-05-10T10:29:00+00:00"
+      },
+      {
+        "author": "Skylar Vasquez",
+        "body": "Documented details, opened ticket with backend team for resolution.",
+        "at": "2026-05-10T07:16:00+00:00"
+      },
+      {
+        "author": "Member",
+        "body": "Any update on this?",
+        "at": "2026-05-10T04:49:00+00:00"
+      }
+    ],
+    "history": []
+  },
+  {
+    "id": "500Syn0128",
+    "case_number": "00100128",
+    "subject": "Out-of-network coverage abroad",
+    "description": "Traveling to Italy for 3 weeks in July. What's my coverage if something happens? Father has heart condition, he's worried.",
+    "status": "Resolved",
+    "priority": "High",
+    "origin": "Email",
+    "reason": "Benefit Inquiry",
+    "type": "General Inquiry",
+    "created_at": "2026-05-10T00:50:00+00:00",
+    "closed_at": "2026-05-10T08:23:00+00:00",
+    "is_escalated": false,
+    "owner_name": "Quincy Adams",
+    "owner_changes": 0,
+    "sla_target_at": null,
+    "sla_breached": false,
+    "contact_name": "Luis Xu",
+    "account_name": "Tanaka Family",
+    "account_type": "Group Plan",
+    "comments": [
+      {
+        "author": "Skylar Vasquez",
+        "body": "Reached out to member, left voicemail. Will follow up tomorrow.",
+        "at": "2026-05-10T07:07:00+00:00"
+      },
+      {
+        "author": "Member",
+        "body": "Still waiting. This is unacceptable.",
+        "at": "2026-05-10T06:44:00+00:00"
+      }
+    ],
+    "history": []
+  },
+  {
+    "id": "500Syn0129",
+    "case_number": "00100129",
+    "subject": "Provider directory is wrong",
+    "description": "Called the first 5 OB/GYNs in your directory. Three are not at the listed address anymore. Two are not taking new patients. I'm 26 weeks pregnant, this is urgent.",
+    "status": "Waiting on Customer",
+    "priority": "Low",
+    "origin": "Email",
+    "reason": "Provider Search",
+    "type": "General Inquiry",
+    "created_at": "2026-05-10T06:22:00+00:00",
+    "closed_at": null,
+    "is_escalated": false,
+    "owner_name": "Skylar Vasquez",
+    "owner_changes": 0,
+    "sla_target_at": "2026-05-10T10:22:00+00:00",
+    "sla_breached": true,
+    "contact_name": "Imani Underwood",
+    "account_name": "Liu & Associates Group Plan",
+    "account_type": "Group Plan",
+    "comments": [
+      {
+        "author": "Morgan Walsh",
+        "body": "Documented details, opened ticket with backend team for resolution.",
+        "at": "2026-05-10T14:11:00+00:00"
+      }
+    ],
+    "history": []
+  },
+  {
+    "id": "500Syn0130",
+    "case_number": "00100130",
+    "subject": "Coverage for high-risk pregnancy specialist",
+    "description": "I'm 30 weeks. If baby comes early and needs NICU, what does my plan cover. Trying to plan financially.",
+    "status": "New",
+    "priority": "Medium",
+    "origin": "Chat",
+    "reason": "Maternity",
+    "type": "Clinical",
+    "created_at": "2026-05-10T19:38:00+00:00",
+    "closed_at": null,
+    "is_escalated": false,
+    "owner_name": "Sam Okafor",
+    "owner_changes": 0,
+    "sla_target_at": null,
+    "sla_breached": false,
+    "contact_name": "Grace Singh",
+    "account_name": "Kim & Associates Group Plan",
+    "account_type": "Medicaid",
+    "comments": [
+      {
+        "author": "Casey Liu",
+        "body": "Documented details, opened ticket with backend team for resolution.",
+        "at": "2026-05-10T22:43:00+00:00"
+      }
+    ],
+    "history": []
+  },
+  {
+    "id": "500Syn0131",
+    "case_number": "00100131",
+    "subject": "Question about coverage for chest pain workup",
+    "description": "Went to the ER yesterday for severe abdominal pain. They did a CT scan and ran labs. Just want to know what my out of pocket will be.",
+    "status": "Closed",
+    "priority": "High",
+    "origin": "Provider Portal",
+    "reason": "Medical Question",
+    "type": "Clinical",
+    "created_at": "2026-05-10T09:20:00+00:00",
+    "closed_at": "2026-05-10T15:50:00+00:00",
+    "is_escalated": false,
+    "owner_name": "Sam Okafor",
+    "owner_changes": 0,
+    "sla_target_at": null,
+    "sla_breached": false,
+    "contact_name": "Zoe Zhao",
+    "account_name": "Johansson Family",
+    "account_type": "Family Plan",
+    "comments": [],
+    "history": []
+  },
+  {
+    "id": "500Syn0132",
+    "case_number": "00100132",
+    "subject": "FSA reimbursement denied",
+    "description": "Quick question - are over the counter allergy meds HSA eligible without a Rx in 2026?",
+    "status": "Resolved",
+    "priority": "High",
+    "origin": "Phone",
+    "reason": "FSA HSA",
+    "type": "Benefits",
+    "created_at": "2026-05-10T11:35:00+00:00",
+    "closed_at": "2026-05-10T13:52:00+00:00",
+    "is_escalated": false,
+    "owner_name": "Riley Chen",
+    "owner_changes": 0,
+    "sla_target_at": "2026-05-12T11:35:00+00:00",
+    "sla_breached": false,
+    "contact_name": "Tomas Tanaka",
+    "account_name": "Diaz Family",
+    "account_type": "Group Plan",
+    "comments": [
+      {
+        "author": "Casey Liu",
+        "body": "Reached out to member, left voicemail. Will follow up tomorrow.",
+        "at": "2026-05-10T18:21:00+00:00"
+      }
+    ],
+    "history": []
+  },
+  {
+    "id": "500Syn0133",
+    "case_number": "00100133",
+    "subject": "Spouse just added secondary insurance",
+    "description": "Spouse started a new job with insurance. Two kids on both plans now. Need to set up COB so claims process correctly.",
+    "status": "Resolved",
+    "priority": "Medium",
+    "origin": "Web",
+    "reason": "COB",
+    "type": "Claims",
+    "created_at": "2026-05-10T17:41:00+00:00",
+    "closed_at": "2026-05-11T03:13:00+00:00",
+    "is_escalated": false,
+    "owner_name": "Quincy Adams",
+    "owner_changes": 0,
+    "sla_target_at": "2026-05-11T01:41:00+00:00",
+    "sla_breached": false,
+    "contact_name": "Uma Chen",
+    "account_name": "Underwood Family",
+    "account_type": "Group Plan",
+    "comments": [
+      {
+        "author": "Sam Okafor",
+        "body": "Documented details, opened ticket with backend team for resolution.",
+        "at": "2026-05-10T19:02:00+00:00"
+      },
+      {
+        "author": "Member",
+        "body": "I tried what you suggested, it didn't work.",
+        "at": "2026-05-10T20:46:00+00:00"
+      }
+    ],
+    "history": []
+  },
+  {
+    "id": "500Syn0134",
+    "case_number": "00100134",
+    "subject": "Medicare turned 65, COB question",
+    "description": "Recently turned 65, now have Medicare Part A and B in addition to your plan. How does coordination work and which is primary.",
+    "status": "Closed",
+    "priority": "Low",
+    "origin": "Phone",
+    "reason": "COB",
+    "type": "Claims",
+    "created_at": "2026-05-10T07:05:00+00:00",
+    "closed_at": "2026-05-10T08:17:00+00:00",
+    "is_escalated": false,
+    "owner_name": "Sam Okafor",
+    "owner_changes": 0,
+    "sla_target_at": null,
+    "sla_breached": false,
+    "contact_name": "Jamal Fischer",
+    "account_name": "Watson & Associates Group Plan",
+    "account_type": "Individual Plan",
+    "comments": [
+      {
+        "author": "Casey Liu",
+        "body": "Confirmed information with member and updated record. Awaiting response from provider.",
+        "at": "2026-05-10T13:01:00+00:00"
+      }
+    ],
+    "history": []
+  },
+  {
+    "id": "500Syn0135",
+    "case_number": "00100135",
+    "subject": "Question about coverage for chest pain workup",
+    "description": "Started feeling fatigued, joint pain, low-grade fever for the last 10 days. PCP wants to refer me to rheumatology. Is that covered without a referral or do I need one?",
+    "status": "Escalated",
+    "priority": "Medium",
+    "origin": "Email",
+    "reason": "Medical Question",
+    "type": "Clinical",
+    "created_at": "2026-05-10T17:47:00+00:00",
+    "closed_at": null,
+    "is_escalated": false,
+    "owner_name": "Jordan Reyes",
+    "owner_changes": 0,
+    "sla_target_at": "2026-05-12T17:47:00+00:00",
+    "sla_breached": false,
+    "contact_name": "Priya Fischer",
+    "account_name": "Underwood & Associates Group Plan",
+    "account_type": "Group Plan",
+    "comments": [
+      {
+        "author": "Devin Park",
+        "body": "Confirmed information with member and updated record. Awaiting response from provider.",
+        "at": "2026-05-11T04:49:00+00:00"
+      },
+      {
+        "author": "Member",
+        "body": "Still waiting. This is unacceptable.",
+        "at": "2026-05-11T04:06:00+00:00"
+      },
+      {
+        "author": "Riley Chen",
+        "body": "Confirmed information with member and updated record. Awaiting response from provider.",
+        "at": "2026-05-10T20:56:00+00:00"
+      }
+    ],
+    "history": []
+  },
+  {
+    "id": "500Syn0136",
+    "case_number": "00100136",
+    "subject": "Specialist referral - is auth needed?",
+    "description": "Need an MRI of the knee. PCP submitted PA last week, your portal says 'pending' with no detail. Surgeon's office is calling me daily asking for status.",
+    "status": "Working",
+    "priority": "Medium",
+    "origin": "Web",
+    "reason": "Prior Auth",
+    "type": "Authorization",
+    "created_at": "2026-05-10T05:15:00+00:00",
+    "closed_at": null,
+    "is_escalated": false,
+    "owner_name": "Avery Patel",
+    "owner_changes": 0,
+    "sla_target_at": null,
+    "sla_breached": false,
+    "contact_name": "Finn Quinn",
+    "account_name": "Nguyen Family",
+    "account_type": "Medicaid",
+    "comments": [
+      {
+        "author": "Morgan Walsh",
+        "body": "Confirmed information with member and updated record. Awaiting response from provider.",
+        "at": "2026-05-10T15:31:00+00:00"
+      }
+    ],
+    "history": []
+  },
+  {
+    "id": "500Syn0137",
+    "case_number": "00100137",
+    "subject": "Specialist directory shows providers not taking patients",
+    "description": "Need an endocrinologist. Directory is months out of date. Suggestions?",
+    "status": "Escalated",
+    "priority": "Medium",
+    "origin": "Phone",
+    "reason": "Provider Search",
+    "type": "General Inquiry",
+    "created_at": "2026-05-10T01:22:00+00:00",
+    "closed_at": null,
+    "is_escalated": false,
+    "owner_name": "Sam Okafor",
+    "owner_changes": 0,
+    "sla_target_at": "2026-05-10T05:22:00+00:00",
+    "sla_breached": true,
+    "contact_name": "Kara Tanaka",
+    "account_name": "Xu Family",
+    "account_type": "Group Plan",
+    "comments": [
+      {
+        "author": "Sam Okafor",
+        "body": "Confirmed information with member and updated record. Awaiting response from provider.",
+        "at": "2026-05-10T04:27:00+00:00"
+      }
+    ],
+    "history": []
+  },
+  {
+    "id": "500Syn0138",
+    "case_number": "00100138",
+    "subject": "Removing ex-spouse from plan",
+    "description": "Was terminated April 28. COBRA paperwork hasn't arrived. I'm running out of meds, need to know coverage status.",
+    "status": "Escalated",
+    "priority": "High",
+    "origin": "Web",
+    "reason": "Enrollment Change",
+    "type": "Enrollment",
+    "created_at": "2026-05-10T09:28:00+00:00",
+    "closed_at": null,
+    "is_escalated": false,
+    "owner_name": "Avery Patel",
+    "owner_changes": 0,
+    "sla_target_at": null,
+    "sla_breached": false,
+    "contact_name": "Eve Zhao",
+    "account_name": "Underwood Family",
+    "account_type": "Individual Plan",
+    "comments": [],
+    "history": []
+  },
+  {
+    "id": "500Syn0139",
+    "case_number": "00100139",
+    "subject": "Lost wallet, urgent ID card",
+    "description": "App shows my old plan info, not the new one that started May 1. Tried logging out and back in. Still wrong.",
+    "status": "Waiting on Customer",
+    "priority": "Medium",
+    "origin": "Phone",
+    "reason": "Member ID",
+    "type": "General Inquiry",
+    "created_at": "2026-05-10T22:49:00+00:00",
+    "closed_at": null,
+    "is_escalated": false,
+    "owner_name": "Avery Patel",
+    "owner_changes": 0,
+    "sla_target_at": null,
+    "sla_breached": false,
+    "contact_name": "Kara Underwood",
+    "account_name": "Underwood Family",
+    "account_type": "Group Plan",
+    "comments": [
+      {
+        "author": "Riley Chen",
+        "body": "Pending response from internal team, ETA 24-48 hours.",
+        "at": "2026-05-11T08:56:00+00:00"
+      },
+      {
+        "author": "Member",
+        "body": "Still waiting. This is unacceptable.",
+        "at": "2026-05-11T04:36:00+00:00"
+      }
+    ],
+    "history": []
+  },
+  {
+    "id": "500Syn0140",
+    "case_number": "00100140",
+    "subject": "Question about coverage for chest pain workup",
+    "description": "Started feeling fatigued, joint pain, low-grade fever for the last 10 days. PCP wants to refer me to rheumatology. Is that covered without a referral or do I need one?",
+    "status": "New",
+    "priority": "Medium",
+    "origin": "Provider Portal",
+    "reason": "Medical Question",
+    "type": "Clinical",
+    "created_at": "2026-05-10T08:25:00+00:00",
+    "closed_at": null,
+    "is_escalated": false,
+    "owner_name": "Avery Patel",
+    "owner_changes": 0,
+    "sla_target_at": "2026-05-12T08:25:00+00:00",
+    "sla_breached": false,
+    "contact_name": "Kim Gupta",
+    "account_name": "Okonkwo & Associates Group Plan",
+    "account_type": "Group Plan",
+    "comments": [
+      {
+        "author": "Skylar Vasquez",
+        "body": "Documented details, opened ticket with backend team for resolution.",
+        "at": "2026-05-10T17:17:00+00:00"
+      }
+    ],
+    "history": []
+  },
+  {
+    "id": "500Syn0141",
+    "case_number": "00100141",
+    "subject": "Password reset email not arriving",
+    "description": "Two factor app gives a code, portal says invalid. Tried 4 times. Clock on my phone is correct.",
+    "status": "Waiting on Customer",
+    "priority": "Medium",
+    "origin": "Chat",
+    "reason": "Portal Access",
+    "type": "Technical",
+    "created_at": "2026-05-10T19:29:00+00:00",
+    "closed_at": null,
+    "is_escalated": false,
+    "owner_name": "Jordan Reyes",
+    "owner_changes": 0,
+    "sla_target_at": "2026-05-12T19:29:00+00:00",
+    "sla_breached": false,
+    "contact_name": "Zoe Bell",
+    "account_name": "Zhao Family",
+    "account_type": "Individual Plan",
+    "comments": [
+      {
+        "author": "Taylor Brooks",
+        "body": "Confirmed information with member and updated record. Awaiting response from provider.",
+        "at": "2026-05-10T22:46:00+00:00"
+      },
+      {
+        "author": "Member",
+        "body": "Still waiting. This is unacceptable.",
+        "at": "2026-05-11T05:38:00+00:00"
+      }
+    ],
+    "history": []
+  },
+  {
+    "id": "500Syn0142",
+    "case_number": "00100142",
+    "subject": "Duplicate premium charge this month",
+    "description": "Premium went up 40% with no notice. I have not received any letter or email. This is unaffordable and I need an explanation before I cancel.",
+    "status": "Resolved",
+    "priority": "Medium",
+    "origin": "Chat",
+    "reason": "Premium Payment",
+    "type": "Billing",
+    "created_at": "2026-05-10T04:25:00+00:00",
+    "closed_at": "2026-05-10T08:23:00+00:00",
+    "is_escalated": false,
+    "owner_name": "Quincy Adams",
+    "owner_changes": 0,
+    "sla_target_at": "2026-05-10T08:25:00+00:00",
+    "sla_breached": false,
+    "contact_name": "Mei Okonkwo",
+    "account_name": "Underwood & Associates Group Plan",
+    "account_type": "Medicare Advantage",
+    "comments": [
+      {
+        "author": "Riley Chen",
+        "body": "Confirmed information with member and updated record. Awaiting response from provider.",
+        "at": "2026-05-10T06:41:00+00:00"
+      }
+    ],
+    "history": []
+  },
+  {
+    "id": "500Syn0143",
+    "case_number": "00100143",
+    "subject": "Pharmacy says no refills remaining but I should have 2",
+    "description": "I went to pick up my blood pressure medication today and the pharmacy said the insurance won't cover it. I've been on this for two years. Please fix this ASAP, I only have 3 days left.",
+    "status": "Waiting on Customer",
+    "priority": "Medium",
+    "origin": "Chat",
+    "reason": "Prescription",
+    "type": "Pharmacy",
+    "created_at": "2026-05-10T06:54:00+00:00",
+    "closed_at": null,
+    "is_escalated": false,
+    "owner_name": "Avery Patel",
+    "owner_changes": 0,
+    "sla_target_at": "2026-05-10T14:54:00+00:00",
+    "sla_breached": false,
+    "contact_name": "Hank Fischer",
+    "account_name": "Nguyen & Associates Group Plan",
+    "account_type": "Group Plan",
+    "comments": [
+      {
+        "author": "Jordan Reyes",
+        "body": "Confirmed information with member and updated record. Awaiting response from provider.",
+        "at": "2026-05-10T19:40:00+00:00"
+      }
+    ],
+    "history": []
+  },
+  {
+    "id": "500Syn0144",
+    "case_number": "00100144",
+    "subject": "Appeal denied - next steps",
+    "description": "First-level appeal denied. Want to escalate to external review. What's the process and timeline. Also planning to file with state insurance commissioner.",
+    "status": "New",
+    "priority": "High",
+    "origin": "Web",
+    "reason": "Formal Appeal",
+    "type": "Appeals",
+    "created_at": "2026-05-10T08:35:00+00:00",
+    "closed_at": null,
+    "is_escalated": false,
+    "owner_name": "Morgan Walsh",
+    "owner_changes": 0,
+    "sla_target_at": null,
+    "sla_breached": false,
+    "contact_name": "Brandon Watson",
+    "account_name": "Fischer Family",
+    "account_type": "Family Plan",
+    "comments": [],
+    "history": []
+  },
+  {
+    "id": "500Syn0145",
+    "case_number": "00100145",
+    "subject": "Adding newborn to coverage",
+    "description": "Moving from Texas to Oregon for new job. Plan is national but state regulations differ. Effective dates and what changes?",
+    "status": "New",
+    "priority": "Low",
+    "origin": "Provider Portal",
+    "reason": "Enrollment Change",
+    "type": "Enrollment",
+    "created_at": "2026-05-10T11:03:00+00:00",
+    "closed_at": null,
+    "is_escalated": false,
+    "owner_name": "Casey Liu",
+    "owner_changes": 3,
+    "sla_target_at": null,
+    "sla_breached": false,
+    "contact_name": "Sofia Edwards",
+    "account_name": "Kim & Associates Group Plan",
+    "account_type": "Individual Plan",
+    "comments": [
+      {
+        "author": "Taylor Brooks",
+        "body": "Reached out to member, left voicemail. Will follow up tomorrow.",
+        "at": "2026-05-10T14:34:00+00:00"
+      },
+      {
+        "author": "Member",
+        "body": "Could you escalate this please.",
+        "at": "2026-05-10T20:32:00+00:00"
+      },
+      {
+        "author": "Morgan Walsh",
+        "body": "Confirmed information with member and updated record. Awaiting response from provider.",
+        "at": "2026-05-10T18:15:00+00:00"
+      }
+    ],
+    "history": [
+      {
+        "field": "Owner",
+        "from": "Quincy Adams",
+        "to": "Riley Chen",
+        "by": "System",
+        "at": "2026-05-10T18:28:00+00:00"
+      },
+      {
+        "field": "Owner",
+        "from": "Devin Park",
+        "to": "Quincy Adams",
+        "by": "System",
+        "at": "2026-05-10T19:06:00+00:00"
+      },
+      {
+        "field": "Owner",
+        "from": "Riley Chen",
+        "to": "Casey Liu",
+        "by": "System",
+        "at": "2026-05-10T21:26:00+00:00"
+      }
+    ]
+  },
+  {
+    "id": "500Syn0146",
+    "case_number": "00100146",
+    "subject": "Appeal denied - next steps",
+    "description": "This is my third escalation. I have lost patience. Need a supervisor to call me back today or I'm filing a complaint with the state.",
+    "status": "Resolved",
+    "priority": "Medium",
+    "origin": "Phone",
+    "reason": "Formal Appeal",
+    "type": "Appeals",
+    "created_at": "2026-05-10T00:52:00+00:00",
+    "closed_at": "2026-05-10T05:07:00+00:00",
+    "is_escalated": true,
+    "owner_name": "Morgan Walsh",
+    "owner_changes": 0,
+    "sla_target_at": "2026-05-11T00:52:00+00:00",
+    "sla_breached": false,
+    "contact_name": "Devon Quinn",
+    "account_name": "Chen Family",
+    "account_type": "Family Plan",
+    "comments": [
+      {
+        "author": "Quincy Adams",
+        "body": "Documented details, opened ticket with backend team for resolution.",
+        "at": "2026-05-10T11:28:00+00:00"
+      },
+      {
+        "author": "Member",
+        "body": "Spoke with my doctor's office, they have not heard back from you.",
+        "at": "2026-05-10T06:05:00+00:00"
+      },
+      {
+        "author": "Morgan Walsh",
+        "body": "Confirmed information with member and updated record. Awaiting response from provider.",
+        "at": "2026-05-10T10:38:00+00:00"
+      }
+    ],
+    "history": []
+  },
+  {
+    "id": "500Syn0147",
+    "case_number": "00100147",
+    "subject": "Adding newborn to coverage",
+    "description": "Moving from Texas to Oregon for new job. Plan is national but state regulations differ. Effective dates and what changes?",
+    "status": "Waiting on Customer",
+    "priority": "Medium",
+    "origin": "Chat",
+    "reason": "Enrollment Change",
+    "type": "Enrollment",
+    "created_at": "2026-05-10T02:10:00+00:00",
+    "closed_at": null,
+    "is_escalated": false,
+    "owner_name": "Avery Patel",
+    "owner_changes": 0,
+    "sla_target_at": null,
+    "sla_breached": false,
+    "contact_name": "Felix Okonkwo",
+    "account_name": "Underwood Family",
+    "account_type": "Group Plan",
+    "comments": [
+      {
+        "author": "Morgan Walsh",
+        "body": "Walked member through portal steps. Issue resolved.",
+        "at": "2026-05-10T09:01:00+00:00"
+      },
+      {
+        "author": "Member",
+        "body": "I tried what you suggested, it didn't work.",
+        "at": "2026-05-10T15:06:00+00:00"
+      }
+    ],
+    "history": []
+  },
+  {
+    "id": "500Syn0148",
+    "case_number": "00100148",
+    "subject": "Provider directory is wrong",
+    "description": "Looking for a pediatric dentist within 20 miles of 60611. Directory shows 8 options. 4 phone numbers disconnected, 3 not taking new patients, 1 doesn't take our plan despite being listed.",
+    "status": "Waiting on Customer",
+    "priority": "Low",
+    "origin": "Provider Portal",
+    "reason": "Provider Search",
+    "type": "General Inquiry",
+    "created_at": "2026-05-10T17:07:00+00:00",
+    "closed_at": null,
+    "is_escalated": false,
+    "owner_name": "Avery Patel",
+    "owner_changes": 0,
+    "sla_target_at": "2026-05-12T17:07:00+00:00",
+    "sla_breached": false,
+    "contact_name": "Iris Quinn",
+    "account_name": "Diaz Family",
+    "account_type": "Medicaid",
+    "comments": [],
+    "history": []
+  },
+  {
+    "id": "500Syn0149",
+    "case_number": "00100149",
+    "subject": "Coordination of benefits update needed",
+    "description": "Husband is veteran, has VA coverage. I have your plan. When he visits non-VA doctors, who pays.",
+    "status": "Working",
+    "priority": "High",
+    "origin": "Web",
+    "reason": "COB",
+    "type": "Claims",
+    "created_at": "2026-05-10T14:26:00+00:00",
+    "closed_at": null,
+    "is_escalated": false,
+    "owner_name": "Skylar Vasquez",
+    "owner_changes": 0,
+    "sla_target_at": null,
+    "sla_breached": false,
+    "contact_name": "Uma Young",
+    "account_name": "Hassan Family",
+    "account_type": "Group Plan",
+    "comments": [],
+    "history": []
+  }
+]
